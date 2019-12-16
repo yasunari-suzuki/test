@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:oa="http://news.line.me/rss/1.0/oa">
 	<channel>
 		<title><![CDATA[MOBY（モビー）車はおもしろい！を届ける自動車情報メディア]]></title>
-		<link>http://localhost/article</link>
+		<link>https://car-moby.jp/article</link>
 		<description><![CDATA[MOBYは毎日クルマを&quot;使う&quot;人、持っていない人に車を好きになってもらうため、新型車、最新の技術やサービスからドライブ情報まで、車の楽しさや魅力を発信します。]]></description>
 		<language>ja</language>
 		<lastBuildDate>Wed, 11 Dec 2019 10:43:44 +0900</lastBuildDate>
@@ -10,7 +10,7 @@
 		<item>
 			<guid isPermaLink="false">http://localhost/article/?p=110</guid>
 			<title><![CDATA[軽自動車のジャンル別人気おすすめ中古車ランキング]]></title>
-			<link>http://localhost/article/automobile/%e8%bb%bd%e8%87%aa%e5%8b%95%e8%bb%8a%e3%81%ae%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%ab%e5%88%a5%e4%ba%ba%e6%b0%97%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e4%b8%ad%e5%8f%a4%e8%bb%8a%e3%83%a9%e3%83%b3%e3%82%ad/</link>
+			<link>https://car-moby.jp/article/automobile/%e8%bb%bd%e8%87%aa%e5%8b%95%e8%bb%8a%e3%81%ae%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%ab%e5%88%a5%e4%ba%ba%e6%b0%97%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e4%b8%ad%e5%8f%a4%e8%bb%8a%e3%83%a9%e3%83%b3%e3%82%ad/</link>
 			<pubDate>Wed, 11 Dec 2019 10:43:44 +0900</pubDate>
 			<description><![CDATA[
 										<p></p>
@@ -415,15 +415,15 @@
 			<enclosure url="" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>https://car-moby.jp/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Wed, 11 Dec 2019 10:43:45 +0900</oa:lastPubDate>
 		</item>
 							
 		<item>
-			<guid isPermaLink="false">http://localhost/article/?p=102</guid>
+			<guid isPermaLink="false">https://car-moby.jp/article/?p=102</guid>
 			<title><![CDATA[新型ブガッティ ディーボ]]></title>
-			<link>http://localhost/article/automobile/%e6%96%b0%e5%9e%8b%e3%83%96%e3%82%ac%e3%83%83%e3%83%86%e3%82%a3-%e3%83%87%e3%82%a3%e3%83%bc%e3%83%9c/</link>
+			<link>https://car-moby.jp/article/automobile/%e6%96%b0%e5%9e%8b%e3%83%96%e3%82%ac%e3%83%83%e3%83%86%e3%82%a3-%e3%83%87%e3%82%a3%e3%83%bc%e3%83%9c/</link>
 			<pubDate>Wed, 11 Dec 2019 10:00:02 +0900</pubDate>
 			<description><![CDATA[
 										<p><br />
