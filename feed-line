@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:snf="http://www.smartnews.be/snf">
+<rss version="2.0" xmlns:oa="http://news.line.me/rss/1.0/oa">
 	<channel>
 		<title><![CDATA[MOBY（モビー）車はおもしろい！を届ける自動車情報メディア]]></title>
 		<link>http://127.0.0.1/article</link>
 		<description><![CDATA[MOBYは毎日クルマを&quot;使う&quot;人、持っていない人に車を好きになってもらうため、新型車、最新の技術やサービスからドライブ情報まで、車の楽しさや魅力を発信します。]]></description>
-		<ttl>15</ttl>
-		<snf:logo><url>https://car-moby.jp/wp-content/uploads/2019/06/moby_logo_alpha.png</url></snf:logo>
 		<language>ja</language>
-		<blf:author>
-			<name>DM SOLUTIONS Co.,Ltd.</name>
-			<uri>https://www.dm-s.co.jp/</uri>
-		</blf:author>
-		<copyright>Copyright ? 2019 DM SOLUTIONS Co.,Ltd. All rights reserved.</copyright>
 		<lastBuildDate>Mon, 16 Dec 2019 16:14:00 +0900</lastBuildDate>
-
-							
-		<item>
+		
+							<item>
+			<guid isPermaLink="false">http://localhost/article/?p=126</guid>
 			<title><![CDATA[全部揃えると超便利なおすすめカー用品全13ジャンル49選！]]></title>
 			<link>http://127.0.0.1/article/automobile/%e5%85%a8%e9%83%a8%e6%8f%83%e3%81%88%e3%82%8b%e3%81%a8%e8%b6%85%e4%be%bf%e5%88%a9%e3%81%aa%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e3%82%ab%e3%83%bc%e7%94%a8%e5%93%81%e5%85%a813%e3%82%b8%e3%83%a3%e3%83%b3/</link>
-			<guid>http://localhost/article/?p=126</guid>
-			<description>全部揃えると超便利なおすすめカー用品全13ジャンル49選！</description>
 			<pubDate>Mon, 16 Dec 2019 16:14:00 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>全部揃えると超便利なおすすめカー用品全13ジャンル49選！</li><li>今や必須アイテム！スマホグッズおすすめ商品4選</li><li>車を守る！車用防犯グッズ3選</li><li>車内の収納に便利なカー用品9選</li><li>車内を快適にするおすすめリラックスグッズ3選</li><li>車内をきれいにするおすすめ清掃グッズ2選</li><li>気になる匂い対策！おすすめ消臭・空気清浄グッズ4選</li></ul></div>
 					</p>
@@ -612,38 +602,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e5%85%a8%e9%83%a8%e6%8f%83%e3%81%88%e3%82%8b%e3%81%a8%e8%b6%85%e4%be%bf%e5%88%a9%e3%81%aa%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e3%82%ab%e3%83%bc%e7%94%a8%e5%93%81%e5%85%a813%e3%82%b8%e3%83%a3%e3%83%b3');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Mon, 16 Dec 2019 16:14:01 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=110</guid>
 			<title><![CDATA[軽自動車のジャンル別人気おすすめ中古車ランキング]]></title>
 			<link>http://127.0.0.1/article/automobile/%e8%bb%bd%e8%87%aa%e5%8b%95%e8%bb%8a%e3%81%ae%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%ab%e5%88%a5%e4%ba%ba%e6%b0%97%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e4%b8%ad%e5%8f%a4%e8%bb%8a%e3%83%a9%e3%83%b3%e3%82%ad/</link>
-			<guid>http://localhost/article/?p=110</guid>
-			<description>軽自動車のジャンル別人気おすすめ中古車ランキング</description>
 			<pubDate>Wed, 11 Dec 2019 10:43:44 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p></p>
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>軽自動車のジャンル別人気おすすめ中古車ランキング 目次</li><li>軽自動車中古車おすすめ低燃費ランキングTOP3</li><li>軽自動車中古車おすすめ低燃費ランキング第3位 スズキ ワゴンR</li><li>軽自動車中古車おすすめ低燃費ランキング第2位 ダイハツ ミライース</li><li>軽自動車中古車おすすめ低燃費ランキング第1位 スズキ アルト</li><li>軽自動車中古車女性におすすめランキングTOP3</li><li>軽自動車中古車女性におすすめランキング第3位 スズキ スペーシア</li><li>軽自動車中古車女性におすすめランキング第2位 ダイハツ ミラココア</li><li>軽自動車中古車女性におすすめランキング第1位 スズキ ラパン</li><li>軽自動車中古車男性におすすめランキングTOP3</li><li>軽自動車中古車男性におすすめランキング第3位 ダイハツ コペン</li><li>軽自動車中古車男性におすすめランキング第2位 スズキ ジムニー</li><li>軽自動車中古車男性におすすめランキング第1位 タントカスタム</li><li>軽自動車中古車おすすめ車内空間ランキングTOP3</li><li>軽自動車中古車おすすめ車内空間ランキング第3位 ホンダ N-BOX</li><li>軽自動車中古車おすすめ車内空間ランキング第2位 スズキ エブリイワゴン</li><li>軽自動車中古車おすすめ車内空間ランキング第1位 ダイハツ ウェイク</li><li>中古軽自動車のメリット</li><li>中古軽自動車のデメリット</li><li>中古軽自動車選びのポイント</li></ul></div>
 					<h2><span id="i">軽自動車のジャンル別人気おすすめ中古車ランキング 目次</span></h2>
@@ -1042,38 +1014,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e8%bb%bd%e8%87%aa%e5%8b%95%e8%bb%8a%e3%81%ae%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%ab%e5%88%a5%e4%ba%ba%e6%b0%97%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e4%b8%ad%e5%8f%a4%e8%bb%8a%e3%83%a9%e3%83%b3%e3%82%ad');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Wed, 11 Dec 2019 10:43:45 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=102</guid>
 			<title><![CDATA[新型ブガッティ ディーボ]]></title>
 			<link>http://127.0.0.1/article/automobile/%e6%96%b0%e5%9e%8b%e3%83%96%e3%82%ac%e3%83%83%e3%83%86%e3%82%a3-%e3%83%87%e3%82%a3%e3%83%bc%e3%83%9c/</link>
-			<guid>http://localhost/article/?p=102</guid>
-			<description>新型ブガッティ ディーボ</description>
 			<pubDate>Wed, 11 Dec 2019 10:00:02 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>「ブガッティ ディーボ」8月24日に米国にて発表決定！</li><li>シロン ディーボの価格は6億4千万円に？</li><li>0-100km/h加速は2.4秒の驚愕スペック</li><li>2018年8月の公式発表に期待高まる</li></ul></div>
 					</p>
@@ -1180,38 +1134,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e6%96%b0%e5%9e%8b%e3%83%96%e3%82%ac%e3%83%83%e3%83%86%e3%82%a3-%e3%83%87%e3%82%a3%e3%83%bc%e3%83%9c');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Wed, 11 Dec 2019 10:00:02 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=100</guid>
 			<title><![CDATA[感動のサプライズ！父の愛車を買い戻した家族]]></title>
 			<link>http://127.0.0.1/article/automobile/%e6%84%9f%e5%8b%95%e3%81%ae%e3%82%b5%e3%83%97%e3%83%a9%e3%82%a4%e3%82%ba%ef%bc%81%e7%88%b6%e3%81%ae%e6%84%9b%e8%bb%8a%e3%82%92%e8%b2%b7%e3%81%84%e6%88%bb%e3%81%97%e3%81%9f%e5%ae%b6%e6%97%8f/</link>
-			<guid>http://localhost/article/?p=100</guid>
-			<description>感動のサプライズ！父の愛車を買い戻した家族</description>
 			<pubDate>Wed, 11 Dec 2019 09:57:27 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p></p>
 					<h2>感動のサプライズ！父の愛車を買い戻した家族</h2>
 					<h4>横にして観てください！</h4>
@@ -1237,38 +1173,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e6%84%9f%e5%8b%95%e3%81%ae%e3%82%b5%e3%83%97%e3%83%a9%e3%82%a4%e3%82%ba%ef%bc%81%e7%88%b6%e3%81%ae%e6%84%9b%e8%bb%8a%e3%82%92%e8%b2%b7%e3%81%84%e6%88%bb%e3%81%97%e3%81%9f%e5%ae%b6%e6%97%8f');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Wed, 11 Dec 2019 09:57:27 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=98</guid>
 			<title><![CDATA[メルセデス マイバッハがSUVコンセプトを北京モーターショーで発表へ]]></title>
 			<link>http://127.0.0.1/article/automobile/%e3%83%a1%e3%83%ab%e3%82%bb%e3%83%87%e3%82%b9-%e3%83%9e%e3%82%a4%e3%83%90%e3%83%83%e3%83%8f%e3%81%8csuv%e3%82%b3%e3%83%b3%e3%82%bb%e3%83%97%e3%83%88%e3%82%92%e5%8c%97%e4%ba%ac%e3%83%a2%e3%83%bc/</link>
-			<guid>http://localhost/article/?p=98</guid>
-			<description>メルセデス マイバッハがSUVコンセプトを北京モーターショーで発表へ</description>
 			<pubDate>Wed, 11 Dec 2019 08:33:40 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>【最新情報】メルセデス マイバッハがSUVコンセプトを北京モーターショーで発表へ</li><li>【ビジョン・アルティメート・ラグジュアリー】エクステリア（外装）</li><li>【ビジョン・アルティメート・ラグジュアリー】インテリア（内装）</li><li>メルセデス マイバッハのSUVコンセプト 続報に期待！</li></ul></div>
 					</p>
@@ -1331,38 +1249,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e3%83%a1%e3%83%ab%e3%82%bb%e3%83%87%e3%82%b9-%e3%83%9e%e3%82%a4%e3%83%90%e3%83%83%e3%83%8f%e3%81%8csuv%e3%82%b3%e3%83%b3%e3%82%bb%e3%83%97%e3%83%88%e3%82%92%e5%8c%97%e4%ba%ac%e3%83%a2%e3%83%bc');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Wed, 11 Dec 2019 10:33:15 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=96</guid>
 			<title><![CDATA[道の駅保田小学校]]></title>
 			<link>http://127.0.0.1/article/automobile/%e9%81%93%e3%81%ae%e9%a7%85%e4%bf%9d%e7%94%b0%e5%b0%8f%e5%ad%a6%e6%a0%a1/</link>
-			<guid>http://localhost/article/?p=96</guid>
-			<description>道の駅保田小学校</description>
 			<pubDate>Wed, 11 Dec 2019 08:26:51 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>「道の駅保田小学校」の特徴</li><li>「道の駅保田小学校」の営業時間・定休日・施設基本情報</li><li>宿泊施設や温浴施設がある「道の駅保田小学校」の主な施設</li><li>本格ピザやさくらパンケーキなど「道の駅保田小学校」のおすすめグルメ</li><li>「道の駅保田小学校」のおすすめお土産・名産品</li><li>「道の駅保田小学校」のイベント</li><li>「道の駅保田小学校」周辺の観光情報</li><li>「道の駅保田小学校」周辺の温泉情報</li><li>「道の駅保田小学校」の口コミ評価</li></ul></div>
 					</p>
@@ -1615,38 +1515,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e9%81%93%e3%81%ae%e9%a7%85%e4%bf%9d%e7%94%b0%e5%b0%8f%e5%ad%a6%e6%a0%a1');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Wed, 11 Dec 2019 08:26:51 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=93</guid>
 			<title><![CDATA[レクサスの新ミラーレス技術「デジタルアウターミラー」]]></title>
 			<link>http://127.0.0.1/article/automobile/%e3%83%ac%e3%82%af%e3%82%b5%e3%82%b9%e3%81%ae%e6%96%b0%e3%83%9f%e3%83%a9%e3%83%bc%e3%83%ac%e3%82%b9%e6%8a%80%e8%a1%93%e3%80%8c%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab%e3%82%a2%e3%82%a6%e3%82%bf%e3%83%bc/</link>
-			<guid>http://localhost/article/?p=93</guid>
-			<description>レクサスは新ミラーレス技術の抜粋</description>
 			<pubDate>Tue, 10 Dec 2019 10:27:30 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>レクサスの新ミラーレス技術「デジタルアウターミラー」</li><li>デジタルアウターミラーのメリット・デメリット</li><li>デジタルアウターミラーの特徴3点</li><li>レクサスの「デジタルアウターミラー」に21万円の価値はある？</li></ul></div>
 					</p>
@@ -1730,38 +1612,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e3%83%ac%e3%82%af%e3%82%b5%e3%82%b9%e3%81%ae%e6%96%b0%e3%83%9f%e3%83%a9%e3%83%bc%e3%83%ac%e3%82%b9%e6%8a%80%e8%a1%93%e3%80%8c%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab%e3%82%a2%e3%82%a6%e3%82%bf%e3%83%bc');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Tue, 10 Dec 2019 18:13:35 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=91</guid>
 			<title><![CDATA[トヨタ プリウスαのスタッドレスタイヤ]]></title>
 			<link>http://127.0.0.1/article/automobile/%e3%83%88%e3%83%a8%e3%82%bf-%e3%83%97%e3%83%aa%e3%82%a6%e3%82%b9%ce%b1%e3%81%ae%e3%82%b9%e3%82%bf%e3%83%83%e3%83%89%e3%83%ac%e3%82%b9%e3%82%bf%e3%82%a4%e3%83%a4/</link>
-			<guid>http://localhost/article/?p=91</guid>
-			<description>目次トヨタ プリウスαのスタッドレスタイヤ【国産編】トヨタ プリウスαのスタッドレスタイヤ メーカー別おすすめ </description>
 			<pubDate>Tue, 10 Dec 2019 10:26:51 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>トヨタ プリウスαのスタッドレスタイヤ</li><li>【国産編】トヨタ プリウスαのスタッドレスタイヤ メーカー別おすすめ4選</li><li>【欧州・米国メーカー編】トヨタ プリウスαのスタッドレスタイヤ メーカー別おすすめ3選</li><li>【アジアンタイヤ編】トヨタ プリウスαのスタッドレスタイヤ メーカー別おすすめ3選</li><li>自分にあったスタッドレスで雪道を安全に走ろう！</li></ul></div>
 					</p>
@@ -2027,38 +1891,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e3%83%88%e3%83%a8%e3%82%bf-%e3%83%97%e3%83%aa%e3%82%a6%e3%82%b9%ce%b1%e3%81%ae%e3%82%b9%e3%82%bf%e3%83%83%e3%83%89%e3%83%ac%e3%82%b9%e3%82%bf%e3%82%a4%e3%83%a4');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Mon, 16 Dec 2019 13:14:05 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=89</guid>
 			<title><![CDATA[日産 シルビアが新型（S16型）で復活か？]]></title>
 			<link>http://127.0.0.1/article/automobile/%e6%97%a5%e7%94%a3-%e3%82%b7%e3%83%ab%e3%83%93%e3%82%a2%e3%81%8c%e6%96%b0%e5%9e%8b%ef%bc%88s16%e5%9e%8b%ef%bc%89%e3%81%a7%e5%be%a9%e6%b4%bb%e3%81%8b%ef%bc%9f/</link>
-			<guid>http://localhost/article/?p=89</guid>
-			<description>目次日産 シルビアが新型（S16型）で復活か？新型シルビアのデザインを考察｜Vモーショングリルは確実か？ 日産 </description>
 			<pubDate>Tue, 10 Dec 2019 10:26:16 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>日産 シルビアが新型（S16型）で復活か？</li><li>新型シルビアのデザインを考察｜Vモーショングリルは確実か？</li></ul></div>
 					</p>
@@ -2115,38 +1961,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e6%97%a5%e7%94%a3-%e3%82%b7%e3%83%ab%e3%83%93%e3%82%a2%e3%81%8c%e6%96%b0%e5%9e%8b%ef%bc%88s16%e5%9e%8b%ef%bc%89%e3%81%a7%e5%be%a9%e6%b4%bb%e3%81%8b%ef%bc%9f');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Tue, 10 Dec 2019 10:26:17 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=87</guid>
 			<title><![CDATA[D.A.Dとは？]]></title>
 			<link>http://127.0.0.1/article/automobile/d-a-d%e3%81%a8%e3%81%af%ef%bc%9f/</link>
-			<guid>http://localhost/article/?p=87</guid>
-			<description>目次D.A.Dとは？「D.A.Dステッカー」は人気のアイテムD.A.Dステッカーはダサい？煽られない？ネットの </description>
 			<pubDate>Tue, 10 Dec 2019 10:25:39 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>D.A.Dとは？</li><li>「D.A.Dステッカー」は人気のアイテム</li><li>D.A.Dステッカーはダサい？煽られない？ネットの声</li><li>【アンケート】D.A.Dステッカーは実際ダサいのか？</li></ul></div>
 					</p>
@@ -2268,38 +2096,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/d-a-d%e3%81%a8%e3%81%af%ef%bc%9f');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Tue, 10 Dec 2019 10:25:40 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=85</guid>
 			<title><![CDATA[車載スマホホルダーはおすすめのカー用品]]></title>
 			<link>http://127.0.0.1/article/automobile/%e8%bb%8a%e8%bc%89%e3%82%b9%e3%83%9e%e3%83%9b%e3%83%9b%e3%83%ab%e3%83%80%e3%83%bc%e3%81%af%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e3%81%ae%e3%82%ab%e3%83%bc%e7%94%a8%e5%93%81/</link>
-			<guid>http://localhost/article/?p=85</guid>
-			<description>目次車載スマホホルダーはおすすめのカー用品アーム式スマホホルダー人気おすすめ3選エアコン吹出口取付けタイプ人気 </description>
 			<pubDate>Tue, 10 Dec 2019 10:24:57 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>車載スマホホルダーはおすすめのカー用品</li><li>アーム式スマホホルダー人気おすすめ3選</li><li>エアコン吹出口取付けタイプ人気おすすめ3選</li></ul></div>
 					</p>
@@ -2400,38 +2210,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e8%bb%8a%e8%bc%89%e3%82%b9%e3%83%9e%e3%83%9b%e3%83%9b%e3%83%ab%e3%83%80%e3%83%bc%e3%81%af%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e3%81%ae%e3%82%ab%e3%83%bc%e7%94%a8%e5%93%81');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Tue, 10 Dec 2019 10:24:58 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=83</guid>
 			<title><![CDATA[「秋川渓谷」紅葉狩りの見頃の時期は11月中旬～12月上旬]]></title>
 			<link>http://127.0.0.1/article/automobile/%e3%80%8c%e7%a7%8b%e5%b7%9d%e6%b8%93%e8%b0%b7%e3%80%8d%e7%b4%85%e8%91%89%e7%8b%a9%e3%82%8a%e3%81%ae%e8%a6%8b%e9%a0%83%e3%81%ae%e6%99%82%e6%9c%9f%e3%81%af11%e6%9c%88%e4%b8%ad%e6%97%ac%ef%bd%9e12/</link>
-			<guid>http://localhost/article/?p=83</guid>
-			<description>目次「秋川渓谷」紅葉狩りの見頃の時期は11月中旬～12月上旬紅葉狩り基本情報・アクセス口コミ・評価おすすめグル </description>
 			<pubDate>Tue, 10 Dec 2019 10:24:22 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>「秋川渓谷」紅葉狩りの見頃の時期は11月中旬～12月上旬</li><li>紅葉狩り基本情報・アクセス</li><li>口コミ・評価</li><li>おすすめグルメ・特産品情報</li></ul></div>
 					</p>
@@ -2543,38 +2335,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e3%80%8c%e7%a7%8b%e5%b7%9d%e6%b8%93%e8%b0%b7%e3%80%8d%e7%b4%85%e8%91%89%e7%8b%a9%e3%82%8a%e3%81%ae%e8%a6%8b%e9%a0%83%e3%81%ae%e6%99%82%e6%9c%9f%e3%81%af11%e6%9c%88%e4%b8%ad%e6%97%ac%ef%bd%9e12');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Tue, 10 Dec 2019 10:24:22 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=81</guid>
 			<title><![CDATA[不凍液とは？]]></title>
 			<link>http://127.0.0.1/article/automobile/%e4%b8%8d%e5%87%8d%e6%b6%b2%e3%81%a8%e3%81%af%ef%bc%9f/</link>
-			<guid>http://localhost/article/?p=81</guid>
-			<description>目次不凍液とは？猫には毒の不凍液の成分とは？クーラントに水道水と不凍液を混ぜていれれば大丈夫なのか？不凍液入り </description>
 			<pubDate>Tue, 10 Dec 2019 10:23:34 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>不凍液とは？</li><li>猫には毒の不凍液の成分とは？</li><li>クーラントに水道水と不凍液を混ぜていれれば大丈夫なのか？</li><li>不凍液入りクーラントおすすめ3選</li><li>不凍液を取り扱うときの注意点は濃度と廃棄方法</li></ul></div>
 					</p>
@@ -2670,38 +2444,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e4%b8%8d%e5%87%8d%e6%b6%b2%e3%81%a8%e3%81%af%ef%bc%9f');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Tue, 10 Dec 2019 10:23:34 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=79</guid>
 			<title><![CDATA[ホンダ新型プレリュードが2019年に新型で復活か！デザインは？]]></title>
 			<link>http://127.0.0.1/article/automobile/%e3%83%9b%e3%83%b3%e3%83%80%e6%96%b0%e5%9e%8b%e3%83%97%e3%83%ac%e3%83%aa%e3%83%a5%e3%83%bc%e3%83%89%e3%81%8c2019%e5%b9%b4%e3%81%ab%e6%96%b0%e5%9e%8b%e3%81%a7%e5%be%a9%e6%b4%bb%e3%81%8b%ef%bc%81/</link>
-			<guid>http://localhost/article/?p=79</guid>
-			<description>目次ホンダ新型プレリュードが2019年に新型で復活か！デザインは？パワートレインは「シビックタイプR」と共有か </description>
 			<pubDate>Tue, 10 Dec 2019 10:23:06 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>ホンダ新型プレリュードが2019年に新型で復活か！デザインは？</li><li>パワートレインは「シビックタイプR」と共有か？</li><li>新型プレリュードは車格アップで車両価格もアップか</li></ul></div>
 					</p>
@@ -2794,38 +2550,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e3%83%9b%e3%83%b3%e3%83%80%e6%96%b0%e5%9e%8b%e3%83%97%e3%83%ac%e3%83%aa%e3%83%a5%e3%83%bc%e3%83%89%e3%81%8c2019%e5%b9%b4%e3%81%ab%e6%96%b0%e5%9e%8b%e3%81%a7%e5%be%a9%e6%b4%bb%e3%81%8b%ef%bc%81');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Tue, 10 Dec 2019 10:23:07 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=77</guid>
 			<title><![CDATA[トヨタ新型シエンタは9月11日にマイナーチェンジ]]></title>
 			<link>http://127.0.0.1/article/automobile/%e3%83%88%e3%83%a8%e3%82%bf%e6%96%b0%e5%9e%8b%e3%82%b7%e3%82%a8%e3%83%b3%e3%82%bf%e3%81%af9%e6%9c%8811%e6%97%a5%e3%81%ab%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b8/</link>
-			<guid>http://localhost/article/?p=77</guid>
-			<description>目次トヨタ新型シエンタは9月11日にマイナーチェンジモデリスタのカスタムパーツ一覧TRDのカスタムパーツ一覧新 </description>
 			<pubDate>Tue, 10 Dec 2019 10:22:26 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>トヨタ新型シエンタは9月11日にマイナーチェンジ</li><li>モデリスタのカスタムパーツ一覧</li><li>TRDのカスタムパーツ一覧</li><li>新型シエンタのカスタムのポイント</li></ul></div>
 					</p>
@@ -3226,38 +2964,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e3%83%88%e3%83%a8%e3%82%bf%e6%96%b0%e5%9e%8b%e3%82%b7%e3%82%a8%e3%83%b3%e3%82%bf%e3%81%af9%e6%9c%8811%e6%97%a5%e3%81%ab%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b8');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Tue, 10 Dec 2019 10:22:27 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=75</guid>
 			<title><![CDATA[クラッチとは]]></title>
 			<link>http://127.0.0.1/article/automobile/%e3%82%af%e3%83%a9%e3%83%83%e3%83%81%e3%81%a8%e3%81%af/</link>
-			<guid>http://localhost/article/?p=75</guid>
-			<description>目次クラッチとはクラッチの仕組みとはマニュアル車（MT車）のクラッチの仕組みと意味AT車（オートマ車）のクラッ </description>
 			<pubDate>Tue, 10 Dec 2019 10:21:51 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>クラッチとは</li><li>クラッチの仕組みとは</li><li>マニュアル車（MT車）のクラッチの仕組みと意味</li><li>AT車（オートマ車）のクラッチとは</li></ul></div>
 					</p>
@@ -3301,38 +3021,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e3%82%af%e3%83%a9%e3%83%83%e3%83%81%e3%81%a8%e3%81%af');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Tue, 10 Dec 2019 10:21:51 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=73</guid>
 			<title><![CDATA[頭文字D作者による新連載「MFゴースト」の世界を再現！]]></title>
 			<link>http://127.0.0.1/article/automobile/%e9%a0%ad%e6%96%87%e5%ad%97d%e4%bd%9c%e8%80%85%e3%81%ab%e3%82%88%e3%82%8b%e6%96%b0%e9%80%a3%e8%bc%89%e3%80%8cmf%e3%82%b4%e3%83%bc%e3%82%b9%e3%83%88%e3%80%8d%e3%81%ae%e4%b8%96%e7%95%8c%e3%82%92/</link>
-			<guid>http://localhost/article/?p=73</guid>
-			<description>頭文字D作者による新連載「MFゴースト」の世界を再現！ 漫画「頭文字D」の作者、しげの秀一氏が2017年より新 </description>
 			<pubDate>Tue, 10 Dec 2019 10:21:03 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p></p>
 					<h2>頭文字D作者による新連載「MFゴースト」の世界を再現！</h2>
 					<p><iframe width="600" height="400" src="https://www.youtube.com/embed/RXxTKdT4jH4" frameborder="0" allowfullscreen=""></iframe></p>
@@ -3350,38 +3052,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e9%a0%ad%e6%96%87%e5%ad%97d%e4%bd%9c%e8%80%85%e3%81%ab%e3%82%88%e3%82%8b%e6%96%b0%e9%80%a3%e8%bc%89%e3%80%8cmf%e3%82%b4%e3%83%bc%e3%82%b9%e3%83%88%e3%80%8d%e3%81%ae%e4%b8%96%e7%95%8c%e3%82%92');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Tue, 10 Dec 2019 10:21:04 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=71</guid>
 			<title><![CDATA[カーフィルム・スモークフィルムとは？]]></title>
 			<link>http://127.0.0.1/article/automobile/%e3%82%ab%e3%83%bc%e3%83%95%e3%82%a3%e3%83%ab%e3%83%a0%e3%83%bb%e3%82%b9%e3%83%a2%e3%83%bc%e3%82%af%e3%83%95%e3%82%a3%e3%83%ab%e3%83%a0%e3%81%a8%e3%81%af%ef%bc%9f/</link>
-			<guid>http://localhost/article/?p=71</guid>
-			<description>目次カーフィルム・スモークフィルムとは？カーフィルムをDIYで貼り付けてみよう！ カーフィルム・スモークフィル </description>
 			<pubDate>Tue, 10 Dec 2019 10:20:11 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>カーフィルム・スモークフィルムとは？</li><li>カーフィルムをDIYで貼り付けてみよう！</li></ul></div>
 					</p>
@@ -3461,38 +3145,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e3%82%ab%e3%83%bc%e3%83%95%e3%82%a3%e3%83%ab%e3%83%a0%e3%83%bb%e3%82%b9%e3%83%a2%e3%83%bc%e3%82%af%e3%83%95%e3%82%a3%e3%83%ab%e3%83%a0%e3%81%a8%e3%81%af%ef%bc%9f');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Tue, 10 Dec 2019 10:20:11 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=69</guid>
 			<title><![CDATA[電工ペンチの選び方]]></title>
 			<link>http://127.0.0.1/article/automobile/%e9%9b%bb%e5%b7%a5%e3%83%9a%e3%83%b3%e3%83%81%e3%81%ae%e9%81%b8%e3%81%b3%e6%96%b9/</link>
-			<guid>http://localhost/article/?p=69</guid>
-			<description>目次電工ペンチの選び方電工ペンチの使い方 電工ペンチの選び方 幅広い作業ができる電工ペンチは、便利で優れた工具 </description>
 			<pubDate>Tue, 10 Dec 2019 10:19:20 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>電工ペンチの選び方</li><li>電工ペンチの使い方</li></ul></div>
 					</p>
@@ -3538,38 +3204,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e9%9b%bb%e5%b7%a5%e3%83%9a%e3%83%b3%e3%83%81%e3%81%ae%e9%81%b8%e3%81%b3%e6%96%b9');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Tue, 10 Dec 2019 10:19:20 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=67</guid>
 			<title><![CDATA[意外と知らない初心者マークのこと]]></title>
 			<link>http://127.0.0.1/article/automobile/%e6%84%8f%e5%a4%96%e3%81%a8%e7%9f%a5%e3%82%89%e3%81%aa%e3%81%84%e5%88%9d%e5%bf%83%e8%80%85%e3%83%9e%e3%83%bc%e3%82%af%e3%81%ae%e3%81%93%e3%81%a8/</link>
-			<guid>http://localhost/article/?p=67</guid>
-			<description>目次意外と知らない初心者マークのこと初心者マークの義務期間から貼る位置について 意外と知らない初心者マークのこ </description>
 			<pubDate>Tue, 10 Dec 2019 10:18:45 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>意外と知らない初心者マークのこと</li><li>初心者マークの義務期間から貼る位置について</li></ul></div>
 					</p>
@@ -3609,38 +3257,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e6%84%8f%e5%a4%96%e3%81%a8%e7%9f%a5%e3%82%89%e3%81%aa%e3%81%84%e5%88%9d%e5%bf%83%e8%80%85%e3%83%9e%e3%83%bc%e3%82%af%e3%81%ae%e3%81%93%e3%81%a8');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Tue, 10 Dec 2019 10:18:46 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=65</guid>
 			<title><![CDATA[アストンマーチンの新型車は「ヴァルハラ」か]]></title>
 			<link>http://127.0.0.1/article/automobile/%e3%82%a2%e3%82%b9%e3%83%88%e3%83%b3%e3%83%9e%e3%83%bc%e3%83%81%e3%83%b3%e3%81%ae%e6%96%b0%e5%9e%8b%e8%bb%8a%e3%81%af%e3%80%8c%e3%83%b4%e3%82%a1%e3%83%ab%e3%83%8f%e3%83%a9%e3%80%8d%e3%81%8b/</link>
-			<guid>http://localhost/article/?p=65</guid>
-			<description>目次アストンマーチンの新型車は「ヴァルハラ」かパワートレインはV6ハイブリッドか2020年にワールドプレミアで </description>
 			<pubDate>Tue, 10 Dec 2019 10:18:11 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>アストンマーチンの新型車は「ヴァルハラ」か</li><li>パワートレインはV6ハイブリッドか</li><li>2020年にワールドプレミアで価格は1億円？</li></ul></div>
 					</p>
@@ -3699,38 +3329,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e3%82%a2%e3%82%b9%e3%83%88%e3%83%b3%e3%83%9e%e3%83%bc%e3%83%81%e3%83%b3%e3%81%ae%e6%96%b0%e5%9e%8b%e8%bb%8a%e3%81%af%e3%80%8c%e3%83%b4%e3%82%a1%e3%83%ab%e3%83%8f%e3%83%a9%e3%80%8d%e3%81%8b');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Tue, 10 Dec 2019 10:18:11 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=63</guid>
 			<title><![CDATA[スプレー式タイヤチェーンとは？]]></title>
 			<link>http://127.0.0.1/article/automobile/%e3%82%b9%e3%83%97%e3%83%ac%e3%83%bc%e5%bc%8f%e3%82%bf%e3%82%a4%e3%83%a4%e3%83%81%e3%82%a7%e3%83%bc%e3%83%b3%e3%81%a8%e3%81%af%ef%bc%9f/</link>
-			<guid>http://localhost/article/?p=63</guid>
-			<description>目次スプレー式タイヤチェーンとは？スプレーチェーンはチェーン規制に対応する？スプレー式タイヤチェーンおすすめ人 </description>
 			<pubDate>Tue, 10 Dec 2019 10:17:37 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>スプレー式タイヤチェーンとは？</li><li>スプレーチェーンはチェーン規制に対応する？</li><li>スプレー式タイヤチェーンおすすめ人気ランキング</li><li>スプレー式タイヤチェーンの選び方</li></ul></div>
 					</p>
@@ -3812,38 +3424,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e3%82%b9%e3%83%97%e3%83%ac%e3%83%bc%e5%bc%8f%e3%82%bf%e3%82%a4%e3%83%a4%e3%83%81%e3%82%a7%e3%83%bc%e3%83%b3%e3%81%a8%e3%81%af%ef%bc%9f');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Tue, 10 Dec 2019 10:17:38 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=61</guid>
 			<title><![CDATA[「厳美渓」紅葉狩りの見頃の時期は10月下旬〜11月上旬]]></title>
 			<link>http://127.0.0.1/article/automobile/%e3%80%8c%e5%8e%b3%e7%be%8e%e6%b8%93%e3%80%8d%e7%b4%85%e8%91%89%e7%8b%a9%e3%82%8a%e3%81%ae%e8%a6%8b%e9%a0%83%e3%81%ae%e6%99%82%e6%9c%9f%e3%81%af10%e6%9c%88%e4%b8%8b%e6%97%ac%e3%80%9c11%e6%9c%88/</link>
-			<guid>http://localhost/article/?p=61</guid>
-			<description>目次「厳美渓」紅葉狩りの見頃の時期は10月下旬〜11月上旬紅葉狩り基本情報・アクセス口コミ・評価おすすめグルメ </description>
 			<pubDate>Tue, 10 Dec 2019 10:16:49 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>「厳美渓」紅葉狩りの見頃の時期は10月下旬〜11月上旬</li><li>紅葉狩り基本情報・アクセス</li><li>口コミ・評価</li><li>おすすめグルメ・特産品情報</li></ul></div>
 					</p>
@@ -3953,38 +3547,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e3%80%8c%e5%8e%b3%e7%be%8e%e6%b8%93%e3%80%8d%e7%b4%85%e8%91%89%e7%8b%a9%e3%82%8a%e3%81%ae%e8%a6%8b%e9%a0%83%e3%81%ae%e6%99%82%e6%9c%9f%e3%81%af10%e6%9c%88%e4%b8%8b%e6%97%ac%e3%80%9c11%e6%9c%88');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Tue, 10 Dec 2019 10:16:49 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=59</guid>
 			<title><![CDATA[【12月14日】ホンダ新型インサイトが発売開始！]]></title>
 			<link>http://127.0.0.1/article/automobile/%e3%80%9012%e6%9c%8814%e6%97%a5%e3%80%91%e3%83%9b%e3%83%b3%e3%83%80%e6%96%b0%e5%9e%8b%e3%82%a4%e3%83%b3%e3%82%b5%e3%82%a4%e3%83%88%e3%81%8c%e7%99%ba%e5%a3%b2%e9%96%8b%e5%a7%8b%ef%bc%81/</link>
-			<guid>http://localhost/article/?p=59</guid>
-			<description>目次【12月14日】ホンダ新型インサイトが発売開始！ホンダ新型インサイト復活の主な変更点まとめ日本仕様デザイン </description>
 			<pubDate>Tue, 10 Dec 2019 10:15:14 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>【12月14日】ホンダ新型インサイトが発売開始！</li><li>ホンダ新型インサイト復活の主な変更点まとめ</li><li>日本仕様デザインの新型インサイトの外装（エクステリア）</li><li>インテリア（内装）はデザインと広さを両立</li><li>1.5L 2モーターハイブリッドエンジン採用で燃費は23.4km/Lか</li></ul></div>
 					</p>
@@ -4198,38 +3774,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e3%80%9012%e6%9c%8814%e6%97%a5%e3%80%91%e3%83%9b%e3%83%b3%e3%83%80%e6%96%b0%e5%9e%8b%e3%82%a4%e3%83%b3%e3%82%b5%e3%82%a4%e3%83%88%e3%81%8c%e7%99%ba%e5%a3%b2%e9%96%8b%e5%a7%8b%ef%bc%81');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Tue, 10 Dec 2019 10:15:15 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=57</guid>
 			<title><![CDATA[【最新情報】光岡 ヒミコがマイナーチェンジ！先進安全装備を全車標準装備]]></title>
 			<link>http://127.0.0.1/article/automobile/%e3%80%90%e6%9c%80%e6%96%b0%e6%83%85%e5%a0%b1%e3%80%91%e5%85%89%e5%b2%a1-%e3%83%92%e3%83%9f%e3%82%b3%e3%81%8c%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b8%ef%bc%81%e5%85%88/</link>
-			<guid>http://localhost/article/?p=57</guid>
-			<description>目次【最新情報】光岡 ヒミコがマイナーチェンジ！先進安全装備を全車標準装備光岡 ヒミコはクラシック風オープンカ </description>
 			<pubDate>Tue, 10 Dec 2019 10:12:51 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p><br />
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>【最新情報】光岡 ヒミコがマイナーチェンジ！先進安全装備を全車標準装備</li><li>光岡 ヒミコはクラシック風オープンカー</li></ul></div>
 					</p>
@@ -4285,38 +3843,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e3%80%90%e6%9c%80%e6%96%b0%e6%83%85%e5%a0%b1%e3%80%91%e5%85%89%e5%b2%a1-%e3%83%92%e3%83%9f%e3%82%b3%e3%81%8c%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b8%ef%bc%81%e5%85%88');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Tue, 10 Dec 2019 10:13:50 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=55</guid>
 			<title><![CDATA[南明奈＃おため試乗！今回はアストンマーティン DB11編]]></title>
 			<link>http://127.0.0.1/article/automobile/%e5%8d%97%e6%98%8e%e5%a5%88%ef%bc%83%e3%81%8a%e3%81%9f%e3%82%81%e8%a9%a6%e4%b9%97%ef%bc%81%e4%bb%8a%e5%9b%9e%e3%81%af%e3%82%a2%e3%82%b9%e3%83%88%e3%83%b3%e3%83%9e%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3-d/</link>
-			<guid>http://localhost/article/?p=55</guid>
-			<description>目次南明奈＃おため試乗！今回はアストンマーティン DB11編アストンマーティン DB11の基本情報 南明奈＃お </description>
 			<pubDate>Tue, 10 Dec 2019 10:11:35 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p></p>
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>南明奈＃おため試乗！今回はアストンマーティン DB11編</li><li>アストンマーティン DB11の基本情報</li></ul></div>
 					<h2><span id="_DB11">南明奈＃おため試乗！今回はアストンマーティン DB11編</span></h2>
@@ -4348,38 +3888,20 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e5%8d%97%e6%98%8e%e5%a5%88%ef%bc%83%e3%81%8a%e3%81%9f%e3%82%81%e8%a9%a6%e4%b9%97%ef%bc%81%e4%bb%8a%e5%9b%9e%e3%81%af%e3%82%a2%e3%82%b9%e3%83%88%e3%83%b3%e3%83%9e%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3-d');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Tue, 10 Dec 2019 10:11:35 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=53</guid>
 			<title><![CDATA[ホンダ新型アコードがついに日本上陸]]></title>
 			<link>http://127.0.0.1/article/automobile/%e3%83%9b%e3%83%b3%e3%83%80%e6%96%b0%e5%9e%8b%e3%82%a2%e3%82%b3%e3%83%bc%e3%83%89%e3%81%8c%e3%81%a4%e3%81%84%e3%81%ab%e6%97%a5%e6%9c%ac%e4%b8%8a%e9%99%b8/</link>
-			<guid>http://localhost/article/?p=53</guid>
-			<description>ホンダ新型アコードがついに日本上陸 ホンダ新型アコードが東京モーターショー2019にて日本初公開となります。今 </description>
 			<pubDate>Tue, 10 Dec 2019 10:09:34 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										<p></p>
 					<h2>ホンダ新型アコードがついに日本上陸</h2>
 					<figure>
@@ -4412,68 +3934,33 @@
 					<br />
 					</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>メーカー･車種別</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/%e3%83%9b%e3%83%b3%e3%83%80%e6%96%b0%e5%9e%8b%e3%82%a2%e3%82%b3%e3%83%bc%e3%83%89%e3%81%8c%e3%81%a4%e3%81%84%e3%81%ab%e6%97%a5%e6%9c%ac%e4%b8%8a%e9%99%b8');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Tue, 10 Dec 2019 10:09:34 +0900</oa:lastPubDate>
 		</item>
-							
-		<item>
+									<item>
+			<guid isPermaLink="false">http://localhost/article/?p=5</guid>
 			<title><![CDATA[Table of Contents Plus 目次テスト用]]></title>
 			<link>http://127.0.0.1/article/automobile/toyota/191120-mokuji-test/</link>
-			<guid>http://localhost/article/?p=5</guid>
-			<description>目次これはh2見出しこれは2つ目のh2見出しこれは3つ目のh2見出し これはh2見出し テストテストテストテス </description>
 			<pubDate>Wed, 20 Nov 2019 18:24:32 +0900</pubDate>
-			<content:encoded>
-				<![CDATA[
+			<description><![CDATA[
 										
 					<div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li>これはh2見出し</li><li>これは2つ目のh2見出し</li><li>これは3つ目のh2見出し</li></ul></div>
 					<h2><span id="h2">これはh2見出し</span></h2><figure class="wp-block-image"><img src="http://localhost/article/wp-content/uploads/2019/11/suzuki_hastler_tms2019_front_side-1-1000x668.jpg" alt="これは代替テキストです。" class="wp-image-50" srcset="http://127.0.0.1/article/wp-content/uploads/2019/11/suzuki_hastler_tms2019_front_side-1-1000x668.jpg 1000w, http://127.0.0.1/article/wp-content/uploads/2019/11/suzuki_hastler_tms2019_front_side-1-300x200.jpg 300w, http://127.0.0.1/article/wp-content/uploads/2019/11/suzuki_hastler_tms2019_front_side-1-768x513.jpg 768w, http://127.0.0.1/article/wp-content/uploads/2019/11/suzuki_hastler_tms2019_front_side-1-400x267.jpg 400w, http://127.0.0.1/article/wp-content/uploads/2019/11/suzuki_hastler_tms2019_front_side-1-1568x1048.jpg 1568w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption>これはキャプションです。</figcaption></figure><p>テストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテスト。</p><p>テストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテスト</p><h2><span id="2h2">これは2つ目のh2見出し</span></h2><p>テストテスト</p><h2><span id="3h2">これは3つ目のh2見出し</span></h2><p>テストテスト</p>
 					
-				]]>		
-			</content:encoded>
-
-			<category>トヨタ,ニュース,メーカー･車種別,新型車・モデルチェンジ</category>
-			<dc:creator>MOBY</dc:creator>
-			<dc:language>ja</dc:language>
-							<media:thumbnail url="http://127.0.0.1/article/wp-content/uploads/2019/11/suzuki_hastler_tms2019_front_side-1-1568x1048.jpg" />
-			
-			<snf:analytics>
-				
-          			<![CDATA[
-          				<script>
-             				 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-              				ga('create', 'UA-62287220-1', 'car-moby.jp');
-              				ga('set', 'referrer', 'http://www.smartnews.com/');
-              				ga('send', 'pageview', '/automobile/toyota/191120-mokuji-test');
-          				</script>
-				]]>
-			</snf:analytics>
+			]]></description>
+			<enclosure url="http://127.0.0.1/article/wp-content/uploads/2019/11/suzuki_hastler_tms2019_front_side-1.jpg" type="image/jpeg" length="0" />
+			<oa:imgAuthor>
+				<oa:authorName>MOBY</oa:authorName>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+			</oa:imgAuthor>
+			<oa:lastPubDate>Wed, 27 Nov 2019 10:57:12 +0900</oa:lastPubDate>
 		</item>
-		
-	</channel>
+			</channel>
 </rss>
 
 
