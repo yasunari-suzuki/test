@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:che="https://media.cheeese.life/che">
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:media="http://search.yahoo.com/mrss/"
+xmlns:che="https://media.cheeese.life/che">
 	<channel>
 		<che:logo>https://car-moby.jp/wp-content/uploads/2019/06/moby_logo_alpha.png</che:logo>
 		<title><![CDATA[MOBY（モビー）車はおもしろい！を届ける自動車情報メディア]]></title>
@@ -3851,3 +3856,4 @@
 		</item>
 			</channel>
 </rss>
+
