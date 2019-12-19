@@ -1334,6 +1334,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 17 Dec 2019 15:51:16 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=135</guid>
@@ -1395,6 +1399,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 17 Dec 2019 15:50:13 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=133</guid>
@@ -1760,6 +1768,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 17 Dec 2019 15:48:09 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=131</guid>
@@ -1896,6 +1908,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 17 Dec 2019 15:44:29 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=126</guid>
@@ -2366,6 +2382,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Mon, 16 Dec 2019 16:14:01 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=110</guid>
@@ -2668,6 +2688,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Wed, 11 Dec 2019 10:43:45 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=102</guid>
@@ -2780,6 +2804,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Wed, 11 Dec 2019 10:00:02 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=100</guid>
@@ -2816,6 +2844,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Wed, 11 Dec 2019 09:57:27 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=98</guid>
@@ -2884,6 +2916,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Wed, 11 Dec 2019 10:33:15 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=96</guid>
@@ -3136,6 +3172,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Wed, 11 Dec 2019 08:26:51 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=93</guid>
@@ -3225,6 +3265,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 10 Dec 2019 18:13:35 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=91</guid>
@@ -3464,6 +3508,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Mon, 16 Dec 2019 13:14:05 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=89</guid>
@@ -3529,6 +3577,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 10 Dec 2019 10:26:17 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=87</guid>
@@ -3648,6 +3700,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 10 Dec 2019 10:25:40 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=85</guid>
@@ -3742,6 +3798,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 10 Dec 2019 10:24:58 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=83</guid>
@@ -3859,6 +3919,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 10 Dec 2019 10:24:22 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=81</guid>
@@ -3954,6 +4018,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 10 Dec 2019 10:23:34 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=79</guid>
@@ -4044,6 +4112,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 10 Dec 2019 10:23:07 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=77</guid>
@@ -4442,6 +4514,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 10 Dec 2019 10:22:27 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=75</guid>
@@ -4491,6 +4567,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 10 Dec 2019 10:21:51 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=73</guid>
@@ -4519,6 +4599,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 10 Dec 2019 10:21:04 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=71</guid>
@@ -4597,6 +4681,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 10 Dec 2019 10:20:11 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=69</guid>
@@ -4651,6 +4739,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 10 Dec 2019 10:19:20 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=67</guid>
@@ -4699,6 +4791,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 10 Dec 2019 10:18:46 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=65</guid>
@@ -4763,6 +4859,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 10 Dec 2019 10:18:11 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=63</guid>
@@ -4842,6 +4942,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 10 Dec 2019 10:17:38 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=61</guid>
@@ -4957,6 +5061,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 10 Dec 2019 10:16:49 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=59</guid>
@@ -5176,6 +5284,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 10 Dec 2019 10:15:15 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=57</guid>
@@ -5240,6 +5352,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 10 Dec 2019 10:13:50 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://localhost/article/?p=55</guid>
@@ -5280,7 +5396,10 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>Tue, 10 Dec 2019 10:11:35 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
 		</item>
 			</channel>
 </rss>
-
