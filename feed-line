@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:oa="http://news.line.me/rss/1.0/oa">
 	<channel>
 		<title><![CDATA[MOBY（モビー）車はおもしろい！を届ける自動車情報メディア]]></title>
-		<link>http://localhost/article</link>
+		<link>http://127.0.0.1/article</link>
 		<description><![CDATA[MOBYは毎日クルマを&quot;使う&quot;人、持っていない人に車を好きになってもらうため、新型車、最新の技術やサービスからドライブ情報まで、車の楽しさや魅力を発信します。]]></description>
 		<language>ja</language>
 		<lastBuildDate>Wed, 11 Dec 2019 21:11:17 +0900</lastBuildDate>
@@ -10,7 +10,7 @@
 							<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=3395</guid>
 			<title><![CDATA[停電時の給電にアウトランダーPHEV【三菱自動車の被災地支援とその取り組み】]]></title>
-			<link>http://localhost/article/automobile/mitsubishi/outlander/mitsubishi-outlander-phev-power-supply/</link>
+			<link>http://127.0.0.1/article/automobile/mitsubishi/outlander/mitsubishi-outlander-phev-power-supply/</link>
 			<pubDate>Wed, 11 Dec 2019 21:11:17 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -73,20 +73,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/11193426/Mitsubishi_Outlander_phev_power_supply_42.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>FIAT50000台国内販売達成！記念セレモニーとFCAジャパン豊橋港工場を見学</oa:refTitle><oa:refUrl>http://localhost/article/automobile/fiat/500/memorial-event/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ニスモ・フェスティバル2019 フォトレポート｜幻のケンメリも走った</oa:refTitle><oa:refUrl>http://localhost/article/event/automobile-event/nismo-festival-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>SUBARU WRX だけ1100台集結！ありがとうペター！さよならEJ20！次期型WRXも語られた</oa:refTitle><oa:refUrl>http://localhost/article/automobile/subaru/wrx-sti/wrx-fan-meeting-event-report/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>FIAT50000台国内販売達成！記念セレモニーとFCAジャパン豊橋港工場を見学</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/fiat/500/memorial-event/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ニスモ・フェスティバル2019 フォトレポート｜幻のケンメリも走った</oa:refTitle><oa:refUrl>http://127.0.0.1/article/event/automobile-event/nismo-festival-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>SUBARU WRX だけ1100台集結！ありがとうペター！さよならEJ20！次期型WRXも語られた</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/subaru/wrx-sti/wrx-fan-meeting-event-report/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Fri, 13 Dec 2019 01:42:39 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=3370</guid>
 			<title><![CDATA[運転が不慣れな人に朗報！“初心者モード”をカーナビアプリ「NAVITIMEドライブサポーター」に追加！]]></title>
-			<link>http://localhost/article/drive/general/navitime-drive-suppoter/</link>
+			<link>http://127.0.0.1/article/drive/general/navitime-drive-suppoter/</link>
 			<pubDate>Wed, 11 Dec 2019 14:58:01 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -122,20 +122,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/11142032/NAVITIME_beginner_mode_1.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>【日産】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://localhost/article/automobile/nissan/2019-new-model-summary-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ランドローバー新型ディスカバリー・スポーツ｜マイナーチェンジ【大幅改良】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/landrover/discovery-sport/new-13/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ニスモ・フェスティバル2019 フォトレポート｜幻のケンメリも走った</oa:refTitle><oa:refUrl>http://localhost/article/event/automobile-event/nismo-festival-2019/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>【日産】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/nissan/2019-new-model-summary-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ランドローバー新型ディスカバリー・スポーツ｜マイナーチェンジ【大幅改良】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/landrover/discovery-sport/new-13/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ニスモ・フェスティバル2019 フォトレポート｜幻のケンメリも走った</oa:refTitle><oa:refUrl>http://127.0.0.1/article/event/automobile-event/nismo-festival-2019/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Wed, 11 Dec 2019 18:10:42 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=3285</guid>
 			<title><![CDATA[ニスモ・フェスティバル2019 フォトレポート｜幻のケンメリも走った]]></title>
-			<link>http://localhost/article/event/automobile-event/nismo-festival-2019/</link>
+			<link>http://127.0.0.1/article/event/automobile-event/nismo-festival-2019/</link>
 			<pubDate>Tue, 10 Dec 2019 00:30:22 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -174,20 +174,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/08142450/nismo_Festival_2019_-6.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>停電時の給電にアウトランダーPHEV【三菱自動車の被災地支援とその取り組み】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/mitsubishi/outlander/mitsubishi-outlander-phev-power-supply/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>FIAT50000台国内販売達成！記念セレモニーとFCAジャパン豊橋港工場を見学</oa:refTitle><oa:refUrl>http://localhost/article/automobile/fiat/500/memorial-event/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>SUBARU WRX だけ1100台集結！ありがとうペター！さよならEJ20！次期型WRXも語られた</oa:refTitle><oa:refUrl>http://localhost/article/automobile/subaru/wrx-sti/wrx-fan-meeting-event-report/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>停電時の給電にアウトランダーPHEV【三菱自動車の被災地支援とその取り組み】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/mitsubishi/outlander/mitsubishi-outlander-phev-power-supply/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>FIAT50000台国内販売達成！記念セレモニーとFCAジャパン豊橋港工場を見学</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/fiat/500/memorial-event/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>SUBARU WRX だけ1100台集結！ありがとうペター！さよならEJ20！次期型WRXも語られた</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/subaru/wrx-sti/wrx-fan-meeting-event-report/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Fri, 13 Dec 2019 01:36:10 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=3329</guid>
 			<title><![CDATA[ランドローバー新型ディスカバリー・スポーツ｜マイナーチェンジ【大幅改良】]]></title>
-			<link>http://localhost/article/automobile/landrover/discovery-sport/new-13/</link>
+			<link>http://127.0.0.1/article/automobile/landrover/discovery-sport/new-13/</link>
 			<pubDate>Mon, 09 Dec 2019 15:49:23 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -211,20 +211,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/10144435/randrover_discovery_sport_front_side-1-e1575956759822.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>【ロータス】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://localhost/article/automobile/lotus/2019-new-model-summary-3/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>スズキ新型ハスラーティザーサイト公開！年内には発売か？</oa:refTitle><oa:refUrl>http://localhost/article/automobile/suzuki/hustler/new-3/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新型BMW 2シリーズ・グランクーペついに発売！306馬力仕様も</oa:refTitle><oa:refUrl>http://localhost/article/automobile/bmw/2-series/gran-coupe/new-4/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>【ロータス】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/lotus/2019-new-model-summary-3/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>スズキ新型ハスラーティザーサイト公開！年内には発売か？</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/suzuki/hustler/new-3/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新型BMW 2シリーズ・グランクーペついに発売！306馬力仕様も</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/bmw/2-series/gran-coupe/new-4/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Wed, 11 Dec 2019 11:34:23 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=3107</guid>
 			<title><![CDATA[ベントレー新型フライングスパー国内発表｜3代目は四輪操舵を採用]]></title>
-			<link>http://localhost/article/automobile/bentley/flying-spur/new-12/</link>
+			<link>http://127.0.0.1/article/automobile/bentley/flying-spur/new-12/</link>
 			<pubDate>Fri, 06 Dec 2019 02:22:13 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -266,20 +266,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/05224811/New_BENTLEY_FRYING_SPUR_3gen_Premier_8.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>スズキ新型ハスラーティザーサイト公開！年内には発売か？</oa:refTitle><oa:refUrl>http://localhost/article/automobile/suzuki/hustler/new-3/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新型BMW 2シリーズ・グランクーペついに発売！306馬力仕様も</oa:refTitle><oa:refUrl>http://localhost/article/automobile/bmw/2-series/gran-coupe/new-4/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新型アルピーヌA110Sが東京モーターショー2019で公開！予約受付開始</oa:refTitle><oa:refUrl>http://localhost/article/automobile/alpine/a110/a110s-new/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>スズキ新型ハスラーティザーサイト公開！年内には発売か？</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/suzuki/hustler/new-3/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新型BMW 2シリーズ・グランクーペついに発売！306馬力仕様も</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/bmw/2-series/gran-coupe/new-4/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新型アルピーヌA110Sが東京モーターショー2019で公開！予約受付開始</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/alpine/a110/a110s-new/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Fri, 06 Dec 2019 02:22:34 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=964</guid>
 			<title><![CDATA[【日産】新車で買える現行車種一覧｜2019年最新情報]]></title>
-			<link>http://localhost/article/automobile/nissan/2019-new-model-summary-2/</link>
+			<link>http://127.0.0.1/article/automobile/nissan/2019-new-model-summary-2/</link>
 			<pubDate>Mon, 25 Nov 2019 10:29:29 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -365,20 +365,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28132231/automobile_nissan_2019-new-model-summary.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>【レクサス】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://localhost/article/automobile/lexus/2019-new-model-summary-10/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【トヨタ GR・GR SPORTとは？】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://localhost/article/automobile/toyota/gr-and-gr-sport-summary-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買える日産のハイブリッドカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/nissan/hybrid-car-2019-2/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>【レクサス】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/lexus/2019-new-model-summary-10/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【トヨタ GR・GR SPORTとは？】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/toyota/gr-and-gr-sport-summary-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買える日産のハイブリッドカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/nissan/hybrid-car-2019-2/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:52 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1035</guid>
 			<title><![CDATA[【ロータス】新車で買える現行車種一覧｜2019年最新情報]]></title>
-			<link>http://localhost/article/automobile/lotus/2019-new-model-summary-3/</link>
+			<link>http://127.0.0.1/article/automobile/lotus/2019-new-model-summary-3/</link>
 			<pubDate>Sun, 24 Nov 2019 11:00:54 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -402,20 +402,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28140307/automobile_lotus_2019-new-model-summary_.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>【RUF CTR3/CTR3 クラブスポーツ】最高速370km/hのミッドシップスポーツカー</oa:refTitle><oa:refUrl>http://localhost/article/automobile/ruf/ctr3/ctr3-and-ctr3-clubsport-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ランドローバー新型ディスカバリー・スポーツ｜マイナーチェンジ【大幅改良】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/landrover/discovery-sport/new-13/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【RUF RGT4.2】ポルシェのGTモデルを凌駕！ルーフが提案する究極のNAロードカー</oa:refTitle><oa:refUrl>http://localhost/article/automobile/ruf/rgt4-2/2019-4/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>【RUF CTR3/CTR3 クラブスポーツ】最高速370km/hのミッドシップスポーツカー</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/ruf/ctr3/ctr3-and-ctr3-clubsport-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ランドローバー新型ディスカバリー・スポーツ｜マイナーチェンジ【大幅改良】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/landrover/discovery-sport/new-13/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【RUF RGT4.2】ポルシェのGTモデルを凌駕！ルーフが提案する究極のNAロードカー</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/ruf/rgt4-2/2019-4/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:12 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1040</guid>
 			<title><![CDATA[【RUF CTR3/CTR3 クラブスポーツ】最高速370km/hのミッドシップスポーツカー]]></title>
-			<link>http://localhost/article/automobile/ruf/ctr3/ctr3-and-ctr3-clubsport-2019/</link>
+			<link>http://127.0.0.1/article/automobile/ruf/ctr3/ctr3-and-ctr3-clubsport-2019/</link>
 			<pubDate>Sat, 23 Nov 2019 10:00:24 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -457,20 +457,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28140324/automobile_ruf_ctr3_ctr3-and-ctr3-clubsport-2019_.jpeg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>【RUF RGT4.2】ポルシェのGTモデルを凌駕！ルーフが提案する究極のNAロードカー</oa:refTitle><oa:refUrl>http://localhost/article/automobile/ruf/rgt4-2/2019-4/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【RUF ターボ・フローリオ】911タルガの伝統をリスペクト！ルーフ渾身のオープントップ爽快ターボ</oa:refTitle><oa:refUrl>http://localhost/article/automobile/ruf/turbo-florio/2019-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【RUF RtR】ルーフが手がける最強ターボモデル！800馬力超ピュアスポーツカー</oa:refTitle><oa:refUrl>http://localhost/article/automobile/ruf/rtr/2019-3/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>【RUF RGT4.2】ポルシェのGTモデルを凌駕！ルーフが提案する究極のNAロードカー</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/ruf/rgt4-2/2019-4/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【RUF ターボ・フローリオ】911タルガの伝統をリスペクト！ルーフ渾身のオープントップ爽快ターボ</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/ruf/turbo-florio/2019-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【RUF RtR】ルーフが手がける最強ターボモデル！800馬力超ピュアスポーツカー</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/ruf/rtr/2019-3/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:12 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1055</guid>
 			<title><![CDATA[スズキ新型ハスラーティザーサイト公開！年内には発売か？]]></title>
-			<link>http://localhost/article/automobile/suzuki/hustler/new-3/</link>
+			<link>http://127.0.0.1/article/automobile/suzuki/hustler/new-3/</link>
 			<pubDate>Thu, 21 Nov 2019 11:38:20 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -510,20 +510,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28132450/automobile_suzuki_hastler_new.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>新型BMW 2シリーズ・グランクーペついに発売！306馬力仕様も</oa:refTitle><oa:refUrl>http://localhost/article/automobile/bmw/2-series/gran-coupe/new-4/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ランドローバー新型ディスカバリー・スポーツ｜マイナーチェンジ【大幅改良】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/landrover/discovery-sport/new-13/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ルノー新型ルーテシアが東京モーターショー2019で日本初公開！</oa:refTitle><oa:refUrl>http://localhost/article/automobile/renault/lutecia/new-5/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>新型BMW 2シリーズ・グランクーペついに発売！306馬力仕様も</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/bmw/2-series/gran-coupe/new-4/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ランドローバー新型ディスカバリー・スポーツ｜マイナーチェンジ【大幅改良】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/landrover/discovery-sport/new-13/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ルノー新型ルーテシアが東京モーターショー2019で日本初公開！</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/renault/lutecia/new-5/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:53 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1059</guid>
 			<title><![CDATA[FIAT50000台国内販売達成！記念セレモニーとFCAジャパン豊橋港工場を見学]]></title>
-			<link>http://localhost/article/automobile/fiat/500/memorial-event/</link>
+			<link>http://127.0.0.1/article/automobile/fiat/500/memorial-event/</link>
 			<pubDate>Tue, 19 Nov 2019 22:38:35 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -563,20 +563,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28140402/automobile_fiat_500_memorial-event_.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>DS3クロスバックまとめ｜DS7との比較と試乗会の裏側も</oa:refTitle><oa:refUrl>http://localhost/article/automobile/ds/ds3-crossback/summary-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>停電時の給電にアウトランダーPHEV【三菱自動車の被災地支援とその取り組み】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/mitsubishi/outlander/mitsubishi-outlander-phev-power-supply/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ニスモ・フェスティバル2019 フォトレポート｜幻のケンメリも走った</oa:refTitle><oa:refUrl>http://localhost/article/event/automobile-event/nismo-festival-2019/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>DS3クロスバックまとめ｜DS7との比較と試乗会の裏側も</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/ds/ds3-crossback/summary-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>停電時の給電にアウトランダーPHEV【三菱自動車の被災地支援とその取り組み】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/mitsubishi/outlander/mitsubishi-outlander-phev-power-supply/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ニスモ・フェスティバル2019 フォトレポート｜幻のケンメリも走った</oa:refTitle><oa:refUrl>http://127.0.0.1/article/event/automobile-event/nismo-festival-2019/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:53 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1064</guid>
 			<title><![CDATA[【マクラーレン】新車で買える現行車種一覧｜2019年最新情報]]></title>
-			<link>http://localhost/article/automobile/maclaren/2019-new-model-summary-5/</link>
+			<link>http://127.0.0.1/article/automobile/maclaren/2019-new-model-summary-5/</link>
 			<pubDate>Tue, 19 Nov 2019 11:00:10 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -613,20 +613,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28140419/automobile_maclaren_2019-new-model-summary_.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>【日産】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://localhost/article/automobile/nissan/2019-new-model-summary-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>運転が不慣れな人に朗報！“初心者モード”をカーナビアプリ「NAVITIMEドライブサポーター」に追加！</oa:refTitle><oa:refUrl>http://localhost/article/drive/general/navitime-drive-suppoter/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ランドローバー新型ディスカバリー・スポーツ｜マイナーチェンジ【大幅改良】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/landrover/discovery-sport/new-13/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>【日産】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/nissan/2019-new-model-summary-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>運転が不慣れな人に朗報！“初心者モード”をカーナビアプリ「NAVITIMEドライブサポーター」に追加！</oa:refTitle><oa:refUrl>http://127.0.0.1/article/drive/general/navitime-drive-suppoter/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ランドローバー新型ディスカバリー・スポーツ｜マイナーチェンジ【大幅改良】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/landrover/discovery-sport/new-13/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:13 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1067</guid>
 			<title><![CDATA[トヨタ C-HR GR SPORT 試乗レポート｜お買い得な程よいスポーツSUV]]></title>
-			<link>http://localhost/article/automobile/toyota/c-hr/gr-sport-test-drive/</link>
+			<link>http://127.0.0.1/article/automobile/toyota/c-hr/gr-sport-test-drive/</link>
 			<pubDate>Mon, 18 Nov 2019 23:23:02 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -700,20 +700,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28132513/automobile_toyota_c-hr_gr-sport-test-drive.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>DS3クロスバック試乗記「エスプリの効いた」プレミアムコンパクトSUV</oa:refTitle><oa:refUrl>http://localhost/article/automobile/ds/ds3-crossback/drive-report-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>FIAT50000台国内販売達成！記念セレモニーとFCAジャパン豊橋港工場を見学</oa:refTitle><oa:refUrl>http://localhost/article/automobile/fiat/500/memorial-event/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【裏技】安いスタッドレスを買って1シーズンでサヨナラするのが超お得</oa:refTitle><oa:refUrl>http://localhost/article/automobile-supplies/tire-studless/2019-economical-stadless-tires/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>DS3クロスバック試乗記「エスプリの効いた」プレミアムコンパクトSUV</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/ds/ds3-crossback/drive-report-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>FIAT50000台国内販売達成！記念セレモニーとFCAジャパン豊橋港工場を見学</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/fiat/500/memorial-event/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【裏技】安いスタッドレスを買って1シーズンでサヨナラするのが超お得</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile-supplies/tire-studless/2019-economical-stadless-tires/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:13 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1070</guid>
 			<title><![CDATA[【ジャガー】新車で買える現行車種一覧｜2019年最新情報]]></title>
-			<link>http://localhost/article/automobile/jaguar/2019-new-model-summary-6/</link>
+			<link>http://127.0.0.1/article/automobile/jaguar/2019-new-model-summary-6/</link>
 			<pubDate>Mon, 18 Nov 2019 11:00:35 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -757,20 +757,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28140437/automobile_jaguar_2019-new-model-summary_.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>【日産】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://localhost/article/automobile/nissan/2019-new-model-summary-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>運転が不慣れな人に朗報！“初心者モード”をカーナビアプリ「NAVITIMEドライブサポーター」に追加！</oa:refTitle><oa:refUrl>http://localhost/article/drive/general/navitime-drive-suppoter/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ランドローバー新型ディスカバリー・スポーツ｜マイナーチェンジ【大幅改良】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/landrover/discovery-sport/new-13/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>【日産】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/nissan/2019-new-model-summary-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>運転が不慣れな人に朗報！“初心者モード”をカーナビアプリ「NAVITIMEドライブサポーター」に追加！</oa:refTitle><oa:refUrl>http://127.0.0.1/article/drive/general/navitime-drive-suppoter/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ランドローバー新型ディスカバリー・スポーツ｜マイナーチェンジ【大幅改良】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/landrover/discovery-sport/new-13/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:13 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1073</guid>
 			<title><![CDATA[ナンカンタイヤのスタッドレスの特徴・製品一覧]]></title>
-			<link>http://localhost/article/automobile-supplies/tire-studless/nankang-studless-tire-2019/</link>
+			<link>http://127.0.0.1/article/automobile-supplies/tire-studless/nankang-studless-tire-2019/</link>
 			<pubDate>Sun, 17 Nov 2019 11:00:39 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -828,20 +828,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28132528/automobile-suppliestire-studless_nankang-studless-tire-2019.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>ナンカンタイヤの特徴と歴史・製品一覧</oa:refTitle><oa:refUrl>http://localhost/article/automobile-supplies/tire-studless/nankang-feature-history/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>マツダ MX-30コンセプト 東京モーターショー2019で世界初公開！初の量産新型EV</oa:refTitle><oa:refUrl>http://localhost/article/automobile/mazda/mx-30/tokyo-motor-show-2019-11/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>「富士回遊」E353系はヤバい電車だった。フェラーリと兄弟だった。</oa:refTitle><oa:refUrl>http://localhost/article/entertainment/train-fuji-kaiyu-e353/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>ナンカンタイヤの特徴と歴史・製品一覧</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile-supplies/tire-studless/nankang-feature-history/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>マツダ MX-30コンセプト 東京モーターショー2019で世界初公開！初の量産新型EV</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/mazda/mx-30/tokyo-motor-show-2019-11/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>「富士回遊」E353系はヤバい電車だった。フェラーリと兄弟だった。</oa:refTitle><oa:refUrl>http://127.0.0.1/article/entertainment/train-fuji-kaiyu-e353/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:53 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1076</guid>
 			<title><![CDATA[【RUF ターボ・フローリオ】911タルガの伝統をリスペクト！ルーフ渾身のオープントップ爽快ターボ]]></title>
-			<link>http://localhost/article/automobile/ruf/turbo-florio/2019-2/</link>
+			<link>http://127.0.0.1/article/automobile/ruf/turbo-florio/2019-2/</link>
 			<pubDate>Sun, 17 Nov 2019 10:00:25 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -877,20 +877,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28140451/automobile_ruf_turbo-florio_2019_.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>【RUF CTR3/CTR3 クラブスポーツ】最高速370km/hのミッドシップスポーツカー</oa:refTitle><oa:refUrl>http://localhost/article/automobile/ruf/ctr3/ctr3-and-ctr3-clubsport-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【RUF RGT4.2】ポルシェのGTモデルを凌駕！ルーフが提案する究極のNAロードカー</oa:refTitle><oa:refUrl>http://localhost/article/automobile/ruf/rgt4-2/2019-4/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【RUF RtR】ルーフが手がける最強ターボモデル！800馬力超ピュアスポーツカー</oa:refTitle><oa:refUrl>http://localhost/article/automobile/ruf/rtr/2019-3/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>【RUF CTR3/CTR3 クラブスポーツ】最高速370km/hのミッドシップスポーツカー</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/ruf/ctr3/ctr3-and-ctr3-clubsport-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【RUF RGT4.2】ポルシェのGTモデルを凌駕！ルーフが提案する究極のNAロードカー</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/ruf/rgt4-2/2019-4/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【RUF RtR】ルーフが手がける最強ターボモデル！800馬力超ピュアスポーツカー</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/ruf/rtr/2019-3/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:14 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1080</guid>
 			<title><![CDATA[ナンカンタイヤの特徴と歴史・製品一覧]]></title>
-			<link>http://localhost/article/automobile-supplies/tire-studless/nankang-feature-history/</link>
+			<link>http://127.0.0.1/article/automobile-supplies/tire-studless/nankang-feature-history/</link>
 			<pubDate>Sat, 16 Nov 2019 11:00:07 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1002,20 +1002,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28132544/automobile-suppliestire-studless_nankang-feature-history.jpeg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>ナンカンタイヤのスタッドレスの特徴・製品一覧</oa:refTitle><oa:refUrl>http://localhost/article/automobile-supplies/tire-studless/nankang-studless-tire-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>マツダ MX-30コンセプト 東京モーターショー2019で世界初公開！初の量産新型EV</oa:refTitle><oa:refUrl>http://localhost/article/automobile/mazda/mx-30/tokyo-motor-show-2019-11/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>「富士回遊」E353系はヤバい電車だった。フェラーリと兄弟だった。</oa:refTitle><oa:refUrl>http://localhost/article/entertainment/train-fuji-kaiyu-e353/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>ナンカンタイヤのスタッドレスの特徴・製品一覧</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile-supplies/tire-studless/nankang-studless-tire-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>マツダ MX-30コンセプト 東京モーターショー2019で世界初公開！初の量産新型EV</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/mazda/mx-30/tokyo-motor-show-2019-11/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>「富士回遊」E353系はヤバい電車だった。フェラーリと兄弟だった。</oa:refTitle><oa:refUrl>http://127.0.0.1/article/entertainment/train-fuji-kaiyu-e353/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:54 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1083</guid>
 			<title><![CDATA[【RUF RtR】ルーフが手がける最強ターボモデル！800馬力超ピュアスポーツカー]]></title>
-			<link>http://localhost/article/automobile/ruf/rtr/2019-3/</link>
+			<link>http://127.0.0.1/article/automobile/ruf/rtr/2019-3/</link>
 			<pubDate>Sat, 16 Nov 2019 10:00:04 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1058,20 +1058,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28140507/automobile_ruf_rtr_2019_.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>【RUF CTR3/CTR3 クラブスポーツ】最高速370km/hのミッドシップスポーツカー</oa:refTitle><oa:refUrl>http://localhost/article/automobile/ruf/ctr3/ctr3-and-ctr3-clubsport-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【RUF RGT4.2】ポルシェのGTモデルを凌駕！ルーフが提案する究極のNAロードカー</oa:refTitle><oa:refUrl>http://localhost/article/automobile/ruf/rgt4-2/2019-4/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【RUF ターボ・フローリオ】911タルガの伝統をリスペクト！ルーフ渾身のオープントップ爽快ターボ</oa:refTitle><oa:refUrl>http://localhost/article/automobile/ruf/turbo-florio/2019-2/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>【RUF CTR3/CTR3 クラブスポーツ】最高速370km/hのミッドシップスポーツカー</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/ruf/ctr3/ctr3-and-ctr3-clubsport-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【RUF RGT4.2】ポルシェのGTモデルを凌駕！ルーフが提案する究極のNAロードカー</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/ruf/rgt4-2/2019-4/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【RUF ターボ・フローリオ】911タルガの伝統をリスペクト！ルーフ渾身のオープントップ爽快ターボ</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/ruf/turbo-florio/2019-2/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:54 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1087</guid>
 			<title><![CDATA[【トヨタ GR・GR SPORTとは？】新車で買える現行車種一覧｜2019年最新情報]]></title>
-			<link>http://localhost/article/automobile/toyota/gr-and-gr-sport-summary-2019/</link>
+			<link>http://127.0.0.1/article/automobile/toyota/gr-and-gr-sport-summary-2019/</link>
 			<pubDate>Fri, 15 Nov 2019 14:14:58 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1144,20 +1144,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28132601/automobile_gr-and-gr-sport-summary-2019.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>【日産】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://localhost/article/automobile/nissan/2019-new-model-summary-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【レクサス】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://localhost/article/automobile/lexus/2019-new-model-summary-10/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>FIAT50000台国内販売達成！記念セレモニーとFCAジャパン豊橋港工場を見学</oa:refTitle><oa:refUrl>http://localhost/article/automobile/fiat/500/memorial-event/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>【日産】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/nissan/2019-new-model-summary-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【レクサス】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/lexus/2019-new-model-summary-10/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>FIAT50000台国内販売達成！記念セレモニーとFCAジャパン豊橋港工場を見学</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/fiat/500/memorial-event/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:54 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1093</guid>
 			<title><![CDATA[SUBARU WRX だけ1100台集結！ありがとうペター！さよならEJ20！次期型WRXも語られた]]></title>
-			<link>http://localhost/article/automobile/subaru/wrx-sti/wrx-fan-meeting-event-report/</link>
+			<link>http://127.0.0.1/article/automobile/subaru/wrx-sti/wrx-fan-meeting-event-report/</link>
 			<pubDate>Thu, 14 Nov 2019 21:22:20 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1200,20 +1200,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28132632/automobile_subaru_wrx-sti_wrx-fan-meeting-event-report.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>停電時の給電にアウトランダーPHEV【三菱自動車の被災地支援とその取り組み】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/mitsubishi/outlander/mitsubishi-outlander-phev-power-supply/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>FIAT50000台国内販売達成！記念セレモニーとFCAジャパン豊橋港工場を見学</oa:refTitle><oa:refUrl>http://localhost/article/automobile/fiat/500/memorial-event/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ニスモ・フェスティバル2019 フォトレポート｜幻のケンメリも走った</oa:refTitle><oa:refUrl>http://localhost/article/event/automobile-event/nismo-festival-2019/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>停電時の給電にアウトランダーPHEV【三菱自動車の被災地支援とその取り組み】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/mitsubishi/outlander/mitsubishi-outlander-phev-power-supply/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>FIAT50000台国内販売達成！記念セレモニーとFCAジャパン豊橋港工場を見学</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/fiat/500/memorial-event/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ニスモ・フェスティバル2019 フォトレポート｜幻のケンメリも走った</oa:refTitle><oa:refUrl>http://127.0.0.1/article/event/automobile-event/nismo-festival-2019/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Wed, 11 Dec 2019 18:11:27 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1099</guid>
 			<title><![CDATA[新型BMW 2シリーズ・グランクーペついに発売！306馬力仕様も]]></title>
-			<link>http://localhost/article/automobile/bmw/2-series/gran-coupe/new-4/</link>
+			<link>http://127.0.0.1/article/automobile/bmw/2-series/gran-coupe/new-4/</link>
 			<pubDate>Wed, 13 Nov 2019 18:08:32 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1299,20 +1299,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28140543/automobile_bmw_2-series_gran-coupe_new_.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>スズキ新型ハスラーティザーサイト公開！年内には発売か？</oa:refTitle><oa:refUrl>http://localhost/article/automobile/suzuki/hustler/new-3/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>メルセデスAMG新型A45 S 4MATIC+が東京モーターショー2019で日本初公開！</oa:refTitle><oa:refUrl>http://localhost/article/automobile/mercedes-benz/mercedes-amg-a-class/a45/a45s-4mativ-plus-new-tokyo-motor-show-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【RUF CTR3/CTR3 クラブスポーツ】最高速370km/hのミッドシップスポーツカー</oa:refTitle><oa:refUrl>http://localhost/article/automobile/ruf/ctr3/ctr3-and-ctr3-clubsport-2019/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>スズキ新型ハスラーティザーサイト公開！年内には発売か？</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/suzuki/hustler/new-3/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>メルセデスAMG新型A45 S 4MATIC+が東京モーターショー2019で日本初公開！</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/mercedes-benz/mercedes-amg-a-class/a45/a45s-4mativ-plus-new-tokyo-motor-show-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【RUF CTR3/CTR3 クラブスポーツ】最高速370km/hのミッドシップスポーツカー</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/ruf/ctr3/ctr3-and-ctr3-clubsport-2019/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:55 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1105</guid>
 			<title><![CDATA[窪田正孝がダイハツ新型ロッキーの生CMに！布袋寅泰ギター柄のロッキーも]]></title>
-			<link>http://localhost/article/automobile/daihatsu/rocky/cm-event/</link>
+			<link>http://127.0.0.1/article/automobile/daihatsu/rocky/cm-event/</link>
 			<pubDate>Wed, 13 Nov 2019 18:00:10 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1333,20 +1333,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28132652/automobile_daihatsu_rocky_cm-event.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>SUBARU WRX だけ1100台集結！ありがとうペター！さよならEJ20！次期型WRXも語られた</oa:refTitle><oa:refUrl>http://localhost/article/automobile/subaru/wrx-sti/wrx-fan-meeting-event-report/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>運転が不慣れな人に朗報！“初心者モード”をカーナビアプリ「NAVITIMEドライブサポーター」に追加！</oa:refTitle><oa:refUrl>http://localhost/article/drive/general/navitime-drive-suppoter/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ランドローバー新型ディスカバリー・スポーツ｜マイナーチェンジ【大幅改良】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/landrover/discovery-sport/new-13/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>SUBARU WRX だけ1100台集結！ありがとうペター！さよならEJ20！次期型WRXも語られた</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/subaru/wrx-sti/wrx-fan-meeting-event-report/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>運転が不慣れな人に朗報！“初心者モード”をカーナビアプリ「NAVITIMEドライブサポーター」に追加！</oa:refTitle><oa:refUrl>http://127.0.0.1/article/drive/general/navitime-drive-suppoter/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ランドローバー新型ディスカバリー・スポーツ｜マイナーチェンジ【大幅改良】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/landrover/discovery-sport/new-13/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:55 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1110</guid>
 			<title><![CDATA[【スマート】新車で買える現行車種一覧｜2019年最新情報]]></title>
-			<link>http://localhost/article/automobile/smart/2019-new-model-summary-8/</link>
+			<link>http://127.0.0.1/article/automobile/smart/2019-new-model-summary-8/</link>
 			<pubDate>Wed, 13 Nov 2019 10:00:42 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1368,20 +1368,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28140603/automobile_smart_2019-new-model-summary_.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>【ロータス】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://localhost/article/automobile/lotus/2019-new-model-summary-3/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>運転が不慣れな人に朗報！“初心者モード”をカーナビアプリ「NAVITIMEドライブサポーター」に追加！</oa:refTitle><oa:refUrl>http://localhost/article/drive/general/navitime-drive-suppoter/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ランドローバー新型ディスカバリー・スポーツ｜マイナーチェンジ【大幅改良】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/landrover/discovery-sport/new-13/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>【ロータス】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/lotus/2019-new-model-summary-3/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>運転が不慣れな人に朗報！“初心者モード”をカーナビアプリ「NAVITIMEドライブサポーター」に追加！</oa:refTitle><oa:refUrl>http://127.0.0.1/article/drive/general/navitime-drive-suppoter/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ランドローバー新型ディスカバリー・スポーツ｜マイナーチェンジ【大幅改良】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/landrover/discovery-sport/new-13/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:55 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1114</guid>
 			<title><![CDATA[新車で買えるハイブリッドミニバン【2019年最新情報】]]></title>
-			<link>http://localhost/article/automobile/2019-new-hybrid-minivan-summary/</link>
+			<link>http://127.0.0.1/article/automobile/2019-new-hybrid-minivan-summary/</link>
 			<pubDate>Tue, 12 Nov 2019 10:46:02 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1433,20 +1433,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28132858/automobile_2019-new-hybrid-minivan-summary.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>新車で買える日産のハイブリッドカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/nissan/hybrid-car-2019-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買えるホンダのハイブリッドカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/honda/hybrid-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買えるハイブリッドコンパクトカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/hybrid-compact-car-2019/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>新車で買える日産のハイブリッドカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/nissan/hybrid-car-2019-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買えるホンダのハイブリッドカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/honda/hybrid-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買えるハイブリッドコンパクトカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/hybrid-compact-car-2019/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:56 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1124</guid>
 			<title><![CDATA[【RUF RGT4.2】ポルシェのGTモデルを凌駕！ルーフが提案する究極のNAロードカー]]></title>
-			<link>http://localhost/article/automobile/ruf/rgt4-2/2019-4/</link>
+			<link>http://127.0.0.1/article/automobile/ruf/rgt4-2/2019-4/</link>
 			<pubDate>Sun, 10 Nov 2019 10:00:21 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1481,20 +1481,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28140619/automobile_ruf_rgt4-2_2019_.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>【RUF CTR3/CTR3 クラブスポーツ】最高速370km/hのミッドシップスポーツカー</oa:refTitle><oa:refUrl>http://localhost/article/automobile/ruf/ctr3/ctr3-and-ctr3-clubsport-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【RUF RtR】ルーフが手がける最強ターボモデル！800馬力超ピュアスポーツカー</oa:refTitle><oa:refUrl>http://localhost/article/automobile/ruf/rtr/2019-3/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【RUF ターボ・フローリオ】911タルガの伝統をリスペクト！ルーフ渾身のオープントップ爽快ターボ</oa:refTitle><oa:refUrl>http://localhost/article/automobile/ruf/turbo-florio/2019-2/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>【RUF CTR3/CTR3 クラブスポーツ】最高速370km/hのミッドシップスポーツカー</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/ruf/ctr3/ctr3-and-ctr3-clubsport-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【RUF RtR】ルーフが手がける最強ターボモデル！800馬力超ピュアスポーツカー</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/ruf/rtr/2019-3/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【RUF ターボ・フローリオ】911タルガの伝統をリスペクト！ルーフ渾身のオープントップ爽快ターボ</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/ruf/turbo-florio/2019-2/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:56 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1150</guid>
 			<title><![CDATA[【裏技】安いスタッドレスを買って1シーズンでサヨナラするのが超お得]]></title>
-			<link>http://localhost/article/automobile-supplies/tire-studless/2019-economical-stadless-tires/</link>
+			<link>http://127.0.0.1/article/automobile-supplies/tire-studless/2019-economical-stadless-tires/</link>
 			<pubDate>Fri, 08 Nov 2019 11:00:04 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1546,20 +1546,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28133025/automobile-suppliestire-studless_2019-economical-stadless-tires.jpeg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>トヨタ C-HR GR SPORT 試乗レポート｜お買い得な程よいスポーツSUV</oa:refTitle><oa:refUrl>http://localhost/article/automobile/toyota/c-hr/gr-sport-test-drive/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>スズキ新型ハスラーティザーサイト公開！年内には発売か？</oa:refTitle><oa:refUrl>http://localhost/article/automobile/suzuki/hustler/new-3/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>運転が不慣れな人に朗報！“初心者モード”をカーナビアプリ「NAVITIMEドライブサポーター」に追加！</oa:refTitle><oa:refUrl>http://localhost/article/drive/general/navitime-drive-suppoter/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>トヨタ C-HR GR SPORT 試乗レポート｜お買い得な程よいスポーツSUV</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/toyota/c-hr/gr-sport-test-drive/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>スズキ新型ハスラーティザーサイト公開！年内には発売か？</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/suzuki/hustler/new-3/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>運転が不慣れな人に朗報！“初心者モード”をカーナビアプリ「NAVITIMEドライブサポーター」に追加！</oa:refTitle><oa:refUrl>http://127.0.0.1/article/drive/general/navitime-drive-suppoter/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:56 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1156</guid>
 			<title><![CDATA[【レクサス】新車で買える現行車種一覧｜2019年最新情報]]></title>
-			<link>http://localhost/article/automobile/lexus/2019-new-model-summary-10/</link>
+			<link>http://127.0.0.1/article/automobile/lexus/2019-new-model-summary-10/</link>
 			<pubDate>Fri, 08 Nov 2019 10:00:37 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1619,20 +1619,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28140714/automobile_lexus_2019-new-model-summary_.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>【日産】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://localhost/article/automobile/nissan/2019-new-model-summary-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【トヨタ GR・GR SPORTとは？】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://localhost/article/automobile/toyota/gr-and-gr-sport-summary-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>運転が不慣れな人に朗報！“初心者モード”をカーナビアプリ「NAVITIMEドライブサポーター」に追加！</oa:refTitle><oa:refUrl>http://localhost/article/drive/general/navitime-drive-suppoter/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>【日産】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/nissan/2019-new-model-summary-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【トヨタ GR・GR SPORTとは？】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/toyota/gr-and-gr-sport-summary-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>運転が不慣れな人に朗報！“初心者モード”をカーナビアプリ「NAVITIMEドライブサポーター」に追加！</oa:refTitle><oa:refUrl>http://127.0.0.1/article/drive/general/navitime-drive-suppoter/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:56 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1165</guid>
 			<title><![CDATA[新車で買えるトヨタのハイブリッドカー【2019年最新情報】]]></title>
-			<link>http://localhost/article/automobile/toyota/2019-new-hybrid-car-summary/</link>
+			<link>http://127.0.0.1/article/automobile/toyota/2019-new-hybrid-car-summary/</link>
 			<pubDate>Thu, 07 Nov 2019 11:27:39 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1728,20 +1728,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28133043/automobile_toyota_2019-new-hybrid-car-summary.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>新車で買えるハイブリッドミニバン【2019年最新情報】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/2019-new-hybrid-minivan-summary/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買えるホンダのハイブリッドカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/honda/hybrid-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買えるハイブリッドコンパクトカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/hybrid-compact-car-2019/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>新車で買えるハイブリッドミニバン【2019年最新情報】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/2019-new-hybrid-minivan-summary/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買えるホンダのハイブリッドカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/honda/hybrid-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買えるハイブリッドコンパクトカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/hybrid-compact-car-2019/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:57 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1160</guid>
 			<title><![CDATA[新車で買えるホンダのハイブリッドカー【2019年最新情報】]]></title>
-			<link>http://localhost/article/automobile/honda/hybrid-2019/</link>
+			<link>http://127.0.0.1/article/automobile/honda/hybrid-2019/</link>
 			<pubDate>Thu, 07 Nov 2019 00:00:00 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1805,20 +1805,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28120350/automobile_honda_hybrid-2019.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>新車で買えるハイブリッドミニバン【2019年最新情報】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/2019-new-hybrid-minivan-summary/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買える日産のハイブリッドカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/nissan/hybrid-car-2019-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>運転が不慣れな人に朗報！“初心者モード”をカーナビアプリ「NAVITIMEドライブサポーター」に追加！</oa:refTitle><oa:refUrl>http://localhost/article/drive/general/navitime-drive-suppoter/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>新車で買えるハイブリッドミニバン【2019年最新情報】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/2019-new-hybrid-minivan-summary/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買える日産のハイブリッドカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/nissan/hybrid-car-2019-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>運転が不慣れな人に朗報！“初心者モード”をカーナビアプリ「NAVITIMEドライブサポーター」に追加！</oa:refTitle><oa:refUrl>http://127.0.0.1/article/drive/general/navitime-drive-suppoter/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:10:58 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1193</guid>
 			<title><![CDATA[新車で買えるハイブリッドコンパクトカー【2019年最新情報】]]></title>
-			<link>http://localhost/article/automobile/hybrid-compact-car-2019/</link>
+			<link>http://127.0.0.1/article/automobile/hybrid-compact-car-2019/</link>
 			<pubDate>Sun, 03 Nov 2019 11:21:04 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1851,20 +1851,20 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28133316/automobile_hybrid-compact-car-2019.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>新車で買えるハイブリッドミニバン【2019年最新情報】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/2019-new-hybrid-minivan-summary/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買えるホンダのハイブリッドカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/honda/hybrid-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買えるトヨタのハイブリッドカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/toyota/2019-new-hybrid-car-summary/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>新車で買えるハイブリッドミニバン【2019年最新情報】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/2019-new-hybrid-minivan-summary/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買えるホンダのハイブリッドカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/honda/hybrid-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買えるトヨタのハイブリッドカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/toyota/2019-new-hybrid-car-summary/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 13:51:22 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 									<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1206</guid>
 			<title><![CDATA[新車で買える日産のハイブリッドカー【2019年最新情報】]]></title>
-			<link>http://localhost/article/automobile/nissan/hybrid-car-2019-2/</link>
+			<link>http://127.0.0.1/article/automobile/nissan/hybrid-car-2019-2/</link>
 			<pubDate>Fri, 01 Nov 2019 11:00:37 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1899,14 +1899,14 @@
 			<enclosure url="http://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/11/28133421/automobile_nissan_hybrid-car-2019.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>新車で買えるハイブリッドミニバン【2019年最新情報】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/2019-new-hybrid-minivan-summary/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買えるホンダのハイブリッドカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/honda/hybrid-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【日産】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://localhost/article/automobile/nissan/2019-new-model-summary-2/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>新車で買えるハイブリッドミニバン【2019年最新情報】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/2019-new-hybrid-minivan-summary/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買えるホンダのハイブリッドカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/honda/hybrid-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>【日産】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/nissan/2019-new-model-summary-2/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Thu, 05 Dec 2019 12:11:13 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
 		</item>
 			</channel>
