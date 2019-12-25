@@ -9,49 +9,56 @@
 		
 
 
-							<item>
-			<guid isPermaLink="false">http://car-moby.jp/article/?p=3395</guid>
-			<title><![CDATA[停電時の給電にアウトランダーPHEV【三菱自動車の被災地支援とその取り組み】]]></title>
-			<link>http://127.0.0.1/article/automobile/mitsubishi/outlander/mitsubishi-outlander-phev-power-supply/</link>
-			<pubDate>Wed, 11 Dec 2019 21:11:17 +0900</pubDate>
+							
+<item>
+			<guid isPermaLink="false">http://car-moby.jp/article/?p=3370</guid>
+			<title><![CDATA[運転が不慣れな人に朗報！“初心者モード”をカーナビアプリ「NAVITIMEドライブサポーター」に追加！]]></title>
+			<link>http://localhost/article/drive/general/navitime-drive-suppoter/</link>
+			<pubDate>Wed, 11 Dec 2019 14:58:01 +0900</pubDate>
 			<description><![CDATA[
 										
-					<h2><span id="PHEV">アウトランダーPHEVの給電デモンストレーション</span></h2>
-					<p>2019年12月10日に三菱自動車は、同社のSUV「アウトランダーPHEV」の給電機能と、令和元年台風15号の被災地の停電対応と今後の被災地支援についてメディア向けに紹介する場を設けました。</p>
-					<p>三菱自動車の説明によると、一般的な家庭の1日の消費電力量は約10kw/h、これに対してアウトランダーPHEVは、13.8kw/hの大容量バッテリーを搭載、バッテリーが満充電状態であれば丸一日は余裕で一般家庭の電力をまかなえるとのことです。</p>
-					<p>PHEVとは「<strong>P</strong>lug-in <strong>H</strong>ybrid <strong>E</strong>lectric <strong>V</strong>ehicle」の頭文字で“プラグイン（電源コンセント）で充電、ガソリンエンジンも併用する電気自動車”のことになります。PHEVはグローバルに普遍的に使われている名称ですが、Eを省いて「PHV」と表記する自動車メーカーも少なくありません。</p>
-					<p>三菱自動車は「PHEV」の名称を採用したことにこだわりがあったことが話されました。アウトランダーPHEVのデビュー前にピュアEV「i-MiEV（アイミーブ）」を発売しており、アウトランダーのPHEV技術はピュアEVから降りてきたという流れが他社のPHEVの開発の流れとは違う、とのことです。</p>
-					<p>アウトランダーPHEVについての解説は、プレゼンで使用されたスライドの方がわかりやすいので、画像にて共有します。</p>
-					<h2><span id="1500AC">1,500ｗのAC電源を給電</span></h2>
-					<p>ご覧のとおり、停電しても普段通りの生活ができる電化製品を使うことができます。三菱自動車広報担当の補足説明では、実際に停電になってアウトランダーPHEVから給電するときは、常時家全体に給電するのではなく、使うときだけコンセントをつなぐ使い方になるため、電力消費量は普段の生活より少なくなるとのこと。</p>
-					<p>V2H機器があれば、アウトランダーPHEVを電源車として全く普段通りの電気の使い方、生活ができます。V2H機器がなくても車載コンセントから延長コードを使用して電気製品が使用できます。</p>
-					<h2><span id="i">三菱自動車の被災地支援実績と今後の取り組み</span></h2>
-					<p>プレゼンの2つ目のセッションでは、今年日本各地で被害をもたらした台風15号で三菱自動車が行った被災地支援の実績が紹介されました。</p>
-					<p>甚大な被害が発生したとき、政府や自治体が被災地への救援、支援までに時間を要してしまう実態があり、三菱自動車は自社の製品がその初動であれば助けられることが増えるのではないかと考え、積極的な取り組みを行っていました。確かに、日常で使う車であれば、フットワーク軽く被災地に行き支援が可能。三菱自動車広報担当は「電源車が来てしまったらアウトランダーPHEVはお役御免。それまでの穴を埋めるべくいかに迅速にいけるかが重要」と語っていました。</p>
-					<p>今回のメディア向けプレゼンは、「三菱自動車は被災したときに使えるこんな車がありますよ、こんな社会貢献をしていますよ。」を伝えたいのではありませんでした。この記事を読んで欲しいのは、自治体の方々と筆者は取材をして強く感じました。</p>
-					<p>自治体関係者の方々、ぜひ一度、三菱自動車へお問合せを。</p>
-					<p>三菱自動車 企業情報サイト</p>
-					<p>取材・撮影・文：MOBY編集部　宇野 智</p>
-					<p><strong>関連記事</strong></p>
-					<p>【三菱 アウトランダーPHEV 試乗記 】震災対策は万全！勉強も運動もできる優等生SUV</p>
+					<h2><span id="1">免許取得から最大1年は全機能を無料で利用できる！</span></h2>
+					<p>株式会社ナビタイムジャパンは、Androidスマートフォン向けカーナビアプリ「NAVITIME ドライブサポーター」に『初心者モード』を新たに実装、2019年12月10日から提供開始したと発表しました。同社は、運転に不安のあるドライバーや高齢者ドライバーの安全運転を支援することを目的にしています。また、初心者ドライバーには運転免許取得から最大1年間を「NAVITIME ドライブサポーター」の全機能を無料で使えるようにするサポートサービスも提供しています。（第1種普通免許のみが対象。アプリ内会員登録時に初心者と判定されると無料となる仕様）<br>新機能は以下のとおり。</p>
+					<h2><span id="i">「初心者」ルートを新設。都市高速を回避</span></h2>
+					<figure class="wp-block-image"><img src="https://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/11142032/NAVITIME_beginner_mode_1.jpg" alt="" /></figure>
+					<p>運転免許取得したばかりの人、ペーパードライバーなど運転に自信がない人は、とりわけ首都高速、各都市高速はできるだけ避けたくなるもの。特に本線への流入や分岐はその距離が短く、運転に慣れている人でも危険を感じてしまうほど。</p>
+					<p>NAVITIME ドライブサポーター「初心者モード」では、首都高速、都市高速の回避をはじめ、車線変更をできるだけ少なくするコース、右左折やすれ違いの厳しい狭い道を極力通らないコースを提案してくれます。</p>
+					<h2><span id="i-2">運転中でも見やすい地図</span></h2>
+					<figure class="wp-block-image"><img src="https://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/11144327/NAVITIME_beginner_mode_2.jpg" alt="" /></figure>
+					<p>画面の小さいスマートフォンでは、見やすさが安全運転に直結します。NAVITIME ドライブサポーター「初心者モード」では建物や道路の色数を減らし、ルート上のアイコンのみを表示するシンプルで見やすいデザインになっています。</p>
+					<h2><span id="i-3">音声とアイコンで危険箇所を事前案内</span></h2>
+					<div class="wp-block-image"><figure class="aligncenter"><img src="https://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/11144305/NAVITIME_beginner_mode_3.jpg" alt="" /></figure></div>
+					<p>「標準モード」で実装されている速度超過、事故多発地点、一時停止などの音声やアイコンでの注意喚起に加え、右左折時、合流時の注意喚起も行います。</p>
+					<h2><span id="i-4">交通違反分析機能で安全に走れたかどうかをチェック</span></h2>
+					<div class="wp-block-image"><figure class="aligncenter"><img src="https://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/11143351/NAVITIME_beginner_mode_5.jpg" alt="" /></figure></div>
+					<p>アプリが走行ログをもとに、交通違反がなかったかどうかを分析、地図上に注意喚起場所を示してくれます。分析対象は、制限速度違反、一時不停止、踏切不停止、進入禁止違反、通行禁止道路侵入違反の5点。</p>
+					<p class="has-small-font-size">※交通違反分析機能はアプリ利用時の状況により検知される項目が正確ではないことがあるとのこと。</p>
+					<h2><span id="i-5">「初心者モード」選択方法</span></h2>
+					<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/11144133/NAVITIME_beginner_mode_5-563x1000.png" alt="" /></figure></div>
+					<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/11144151/NAVITIME_beginner_mode_4-563x1000.png" alt="" /><figcaption>2. メニューの上「標準モード」の右の変更ボタンから「初心者モード」へ切替</figcaption></figure></div>
+					<h3>実際の画面</h3>
 					<p></p>
+					<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/11144305/NAVITIME_beginner_mode_3-563x1000.jpg" alt="" /><figcaption>目的地入力後の画面</figcaption></figure></div>
+					<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/11144327/NAVITIME_beginner_mode_2-563x1000.jpg" alt="" /><figcaption> 「初心者モード」 でルート案内開始後の画面。</figcaption></figure></div>
+					<h3>「ながらスマホ」は絶対ヤメて！既に厳罰化</h3>
+					<p>2019年12月1日から、運転中にスマホを注視するなどしたときの所謂「ながらスマホ」が厳罰化となりました。罰則がどうこうというより、そもそも運転中のスマホ操作は非常に危険です。見やすくなった「NAVITIME ドライブサポーター」でも、運転中の操作は控えて必ず車を安全な場所に駐めてから行ってください。</p>
+					<p>アプリダウンロードはこちら「NAVITIME ドライブサポーター」</p>
 					
 <p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
 			]]></description>
-			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2019/12/11193426/Mitsubishi_Outlander_phev_power_supply_42.jpg" type="image/jpeg" length="0" />
+			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2019/12/11142032/NAVITIME_beginner_mode_1.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
+				<oa:authorUrl>http://localhost/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>ニスモ・フェスティバル2019 フォトレポート｜幻のケンメリも走った</oa:refTitle><oa:refUrl>http://127.0.0.1/article/event/automobile-event/nismo-festival-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>FIAT50000台国内販売達成！記念セレモニーとFCAジャパン豊橋港工場を見学</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/fiat/500/memorial-event/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>SUBARU WRX だけ1100台集結！ありがとうペター！さよならEJ20！次期型WRXも語られた</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/subaru/wrx-sti/wrx-fan-meeting-event-report/</oa:refUrl></oa:reflink>			
-			<oa:lastPubDate>Sat, 21 Dec 2019 11:15:13 +0900</oa:lastPubDate>
+									<oa:reflink><oa:refTitle>【日産】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://localhost/article/automobile/nissan/2019-new-model-summary-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ニスモ・フェスティバル2019 フォトレポート｜幻のケンメリも走った</oa:refTitle><oa:refUrl>http://localhost/article/event/automobile-event/nismo-festival-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買えるホンダのハイブリッドカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/honda/hybrid-2019/</oa:refUrl></oa:reflink>			
+			<oa:lastPubDate>Sat, 21 Dec 2019 12:22:47 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			<oa:refUrl>http://localhost/article</oa:refUrl>
 			</oa:reflink>
-		</item>
-				
+		</item>				
 		
 		
 		
