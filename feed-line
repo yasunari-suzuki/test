@@ -57,7 +57,13 @@
 				<oa:authorName>MOBY</oa:authorName>
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
-		
+<oa:reflink><oa:refTitle>スズキ新型ハスラーティザーサイト公開！年内には発売か？</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/suzuki/hustler/new-3/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新型BMW 2シリーズ・グランクーペついに発売！306馬力仕様も</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/bmw/2-series/gran-coupe/new-4/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新型アルピーヌA110Sが東京モーターショー2019で公開！予約受付開始</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/alpine/a110/a110s-new/</oa:refUrl></oa:reflink>			
+			<oa:lastPubDate>Fri, 06 Dec 2019 02:22:34 +0900</oa:lastPubDate>
+			<oa:reflink>
+			<oa:refTitle>オリジナルサイト</oa:refTitle>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
+			</oa:reflink>
+		</item>		
 		
 		
 		
