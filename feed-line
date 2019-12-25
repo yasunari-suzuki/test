@@ -13,33 +13,33 @@
 <item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=3370</guid>
 			<title><![CDATA[運転が不慣れな人に朗報！“初心者モード”をカーナビアプリ「NAVITIMEドライブサポーター」に追加！]]></title>
-			<link>http://localhost/article/drive/general/navitime-drive-suppoter/</link>
+			<link>http://127.0.0.1/article/drive/general/navitime-drive-suppoter/</link>
 			<pubDate>Wed, 11 Dec 2019 14:58:01 +0900</pubDate>
 			<description><![CDATA[
 										
 					<h2><span id="1">免許取得から最大1年は全機能を無料で利用できる！</span></h2>
 					<p>株式会社ナビタイムジャパンは、Androidスマートフォン向けカーナビアプリ「NAVITIME ドライブサポーター」に『初心者モード』を新たに実装、2019年12月10日から提供開始したと発表しました。同社は、運転に不安のあるドライバーや高齢者ドライバーの安全運転を支援することを目的にしています。また、初心者ドライバーには運転免許取得から最大1年間を「NAVITIME ドライブサポーター」の全機能を無料で使えるようにするサポートサービスも提供しています。（第1種普通免許のみが対象。アプリ内会員登録時に初心者と判定されると無料となる仕様）<br>新機能は以下のとおり。</p>
 					<h2><span id="i">「初心者」ルートを新設。都市高速を回避</span></h2>
-					<figure class="wp-block-image"><img src="https://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/11142032/NAVITIME_beginner_mode_1.jpg" alt="" /></figure>
+					<figure class="wp-block-image"><img src="https://localhost/article/wp-content/uploads/2019/12/NAVITIME_beginner_mode_1.jpg" alt="" /></figure>
 					<p>運転免許取得したばかりの人、ペーパードライバーなど運転に自信がない人は、とりわけ首都高速、各都市高速はできるだけ避けたくなるもの。特に本線への流入や分岐はその距離が短く、運転に慣れている人でも危険を感じてしまうほど。</p>
 					<p>NAVITIME ドライブサポーター「初心者モード」では、首都高速、都市高速の回避をはじめ、車線変更をできるだけ少なくするコース、右左折やすれ違いの厳しい狭い道を極力通らないコースを提案してくれます。</p>
 					<h2><span id="i-2">運転中でも見やすい地図</span></h2>
-					<figure class="wp-block-image"><img src="https://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/11144327/NAVITIME_beginner_mode_2.jpg" alt="" /></figure>
+					<figure class="wp-block-image"><img src="https://localhost/article/wp-content/uploads/2019/12/NAVITIME_beginner_mode_2.jpg" alt="" /></figure>
 					<p>画面の小さいスマートフォンでは、見やすさが安全運転に直結します。NAVITIME ドライブサポーター「初心者モード」では建物や道路の色数を減らし、ルート上のアイコンのみを表示するシンプルで見やすいデザインになっています。</p>
 					<h2><span id="i-3">音声とアイコンで危険箇所を事前案内</span></h2>
-					<div class="wp-block-image"><figure class="aligncenter"><img src="https://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/11144305/NAVITIME_beginner_mode_3.jpg" alt="" /></figure></div>
+					<div class="wp-block-image"><figure class="aligncenter"><img src="https://localhost/article/wp-content/uploads/2019/12/NAVITIME_beginner_mode_3.jpg" alt="" /></figure></div>
 					<p>「標準モード」で実装されている速度超過、事故多発地点、一時停止などの音声やアイコンでの注意喚起に加え、右左折時、合流時の注意喚起も行います。</p>
 					<h2><span id="i-4">交通違反分析機能で安全に走れたかどうかをチェック</span></h2>
-					<div class="wp-block-image"><figure class="aligncenter"><img src="https://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/11143351/NAVITIME_beginner_mode_5.jpg" alt="" /></figure></div>
+					<div class="wp-block-image"><figure class="aligncenter"><img src="https://localhost/article/wp-content/uploads/2019/12/NAVITIME_beginner_mode_5.jpg" alt="" /></figure></div>
 					<p>アプリが走行ログをもとに、交通違反がなかったかどうかを分析、地図上に注意喚起場所を示してくれます。分析対象は、制限速度違反、一時不停止、踏切不停止、進入禁止違反、通行禁止道路侵入違反の5点。</p>
 					<p class="has-small-font-size">※交通違反分析機能はアプリ利用時の状況により検知される項目が正確ではないことがあるとのこと。</p>
 					<h2><span id="i-5">「初心者モード」選択方法</span></h2>
-					<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/11144133/NAVITIME_beginner_mode_5-563x1000.png" alt="" /></figure></div>
-					<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/11144151/NAVITIME_beginner_mode_4-563x1000.png" alt="" /><figcaption>2. メニューの上「標準モード」の右の変更ボタンから「初心者モード」へ切替</figcaption></figure></div>
+					<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://localhost/article/wp-content/uploads/2019/12/NAVITIME_beginner_mode_5-563x1000.png" alt="" /></figure></div>
+					<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://localhost/article/wp-content/uploads/2019/12/NAVITIME_beginner_mode_4-563x1000.png" alt="" /><figcaption>2. メニューの上「標準モード」の右の変更ボタンから「初心者モード」へ切替</figcaption></figure></div>
 					<h3>実際の画面</h3>
 					<p></p>
-					<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/11144305/NAVITIME_beginner_mode_3-563x1000.jpg" alt="" /><figcaption>目的地入力後の画面</figcaption></figure></div>
-					<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://minio:9000/moby-prd-newp/article/wp-content/uploads/2019/12/11144327/NAVITIME_beginner_mode_2-563x1000.jpg" alt="" /><figcaption> 「初心者モード」 でルート案内開始後の画面。</figcaption></figure></div>
+					<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://localhost/article/wp-content/uploads/2019/12/NAVITIME_beginner_mode_3-563x1000.jpg" alt="" /><figcaption>目的地入力後の画面</figcaption></figure></div>
+					<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://localhost/article/wp-content/uploads/2019/12/NAVITIME_beginner_mode_2-563x1000.jpg" alt="" /><figcaption> 「初心者モード」 でルート案内開始後の画面。</figcaption></figure></div>
 					<h3>「ながらスマホ」は絶対ヤメて！既に厳罰化</h3>
 					<p>2019年12月1日から、運転中にスマホを注視するなどしたときの所謂「ながらスマホ」が厳罰化となりました。罰則がどうこうというより、そもそも運転中のスマホ操作は非常に危険です。見やすくなった「NAVITIME ドライブサポーター」でも、運転中の操作は控えて必ず車を安全な場所に駐めてから行ってください。</p>
 					<p>アプリダウンロードはこちら「NAVITIME ドライブサポーター」</p>
@@ -49,16 +49,16 @@
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2019/12/11142032/NAVITIME_beginner_mode_1.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 
-									<oa:reflink><oa:refTitle>【日産】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://localhost/article/automobile/nissan/2019-new-model-summary-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ニスモ・フェスティバル2019 フォトレポート｜幻のケンメリも走った</oa:refTitle><oa:refUrl>http://localhost/article/event/automobile-event/nismo-festival-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買えるホンダのハイブリッドカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/honda/hybrid-2019/</oa:refUrl></oa:reflink>			
+									<oa:reflink><oa:refTitle>【日産】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/nissan/2019-new-model-summary-2/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>ニスモ・フェスティバル2019 フォトレポート｜幻のケンメリも走った</oa:refTitle><oa:refUrl>http://127.0.0.1/article/event/automobile-event/nismo-festival-2019/</oa:refUrl></oa:reflink><oa:reflink><oa:refTitle>新車で買えるホンダのハイブリッドカー【2019年最新情報】</oa:refTitle><oa:refUrl>http://127.0.0.1/article/automobile/honda/hybrid-2019/</oa:refUrl></oa:reflink>			
 			<oa:lastPubDate>Sat, 21 Dec 2019 12:22:47 +0900</oa:lastPubDate>
 			<oa:reflink>
 			<oa:refTitle>オリジナルサイト</oa:refTitle>
-			<oa:refUrl>http://localhost/article</oa:refUrl>
+			<oa:refUrl>http://127.0.0.1/article</oa:refUrl>
 			</oa:reflink>
-		</item>				
+		</item>		
 		
 		
 		
