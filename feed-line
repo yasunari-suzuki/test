@@ -114,7 +114,9 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>
-				Thu, 26 Dec 2019 20:12:33 +0900			</oa:lastPubDate>
+				Thu, 26 Dec 2019 20:12:33 +0900			
+			</oa:lastPubDate>
+			<oa:delStatus>1</oa:delStatus>
 		</item>
 		
 		
