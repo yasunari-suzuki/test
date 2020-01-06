@@ -72,7 +72,7 @@
 					<p></p>
 					
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<a href="http://localhost/article/automobile/mitsubishi/outlander/mitsubishi-outlander-phev-power-supply/">オリジナルサイト</a>
+					<a href="http://127.0.0.1/article/automobile/mitsubishi/outlander/mitsubishi-outlander-phev-power-supply/">オリジナルサイト</a>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2019/12/11193426/Mitsubishi_Outlander_phev_power_supply_42-1568x1046.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
@@ -80,8 +80,7 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>
-				Thu, 26 Dec 2019 15:09:28 +0900
-			</oa:lastPubDate>
+				Thu, 26 Dec 2019 15:09:28 +0900			</oa:lastPubDate>
 
 			<oa:delStatus>0</oa:delStatus>
 		</item>
