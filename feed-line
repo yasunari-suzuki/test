@@ -10,7 +10,7 @@
 
 
 		
-		<item>
+<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=3395</guid>
 			<title><![CDATA[停電時の給電にアウトランダーPHEV【三菱自動車の被災地支援とその取り組み】]]></title>
 			<link>http://127.0.0.1/article/automobile/mitsubishi/outlander/mitsubishi-outlander-phev-power-supply/</link>
@@ -80,7 +80,9 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>
-				Thu, 26 Dec 2019 15:09:28 +0900			</oa:lastPubDate>
+				Thu, 26 Dec 2019 15:09:28 +0900
+			</oa:lastPubDate>
+		
 
 			<oa:delStatus>1</oa:delStatus>
 		</item>
