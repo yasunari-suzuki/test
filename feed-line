@@ -79,9 +79,9 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>
-				Fri, 27 Dec 2019 10:52:18 +0900
+				Fri, 13 Dec 2019 01:42:39 +0900
 			</oa:lastPubDate>
-			<oa:delStatus>1</oa:delStatus>
+			<oa:delStatus>0</oa:delStatus>
 		</item>
 							
 		<item>
@@ -130,7 +130,7 @@
 			<oa:lastPubDate>
 				Wed, 11 Dec 2019 18:10:42 +0900
 			</oa:lastPubDate>
-			<oa:delStatus>1</oa:delStatus>
+			<oa:delStatus>0</oa:delStatus>
 		</item>
 							
 		<item>
@@ -180,9 +180,9 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 			<oa:lastPubDate>
-				Fri, 27 Dec 2019 10:52:53 +0900
+				Fri, 13 Dec 2019 01:36:10 +0900
 			</oa:lastPubDate>
-			<oa:delStatus>1</oa:delStatus>
+			<oa:delStatus>0</oa:delStatus>
 		</item>
 							
 		<item>
@@ -219,7 +219,7 @@
 			<oa:lastPubDate>
 				Wed, 11 Dec 2019 11:34:23 +0900
 			</oa:lastPubDate>
-			<oa:delStatus>1</oa:delStatus>
+			<oa:delStatus>0</oa:delStatus>
 		</item>
 							
 		<item>
@@ -274,8 +274,8 @@
 			<oa:lastPubDate>
 				Fri, 06 Dec 2019 02:22:34 +0900
 			</oa:lastPubDate>
-			<oa:delStatus>1</oa:delStatus>
+			<oa:delStatus>0</oa:delStatus>
 		</item>
-		
+	
 	</channel>
 </rss>
